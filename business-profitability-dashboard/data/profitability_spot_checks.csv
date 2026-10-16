@@ -1,0 +1,6 @@
+order_id,date,product,category,region,customer_segment,quantity,unit_price,unit_cost,discount_pct,revenue,cost_of_goods_sold,gross_profit,gross_margin_pct
+ORD00001,2025-01-01,Printer,Technology,Central,Corporate,3,200,165.32,0.1,540.00,495.96,44.04,8.16
+ORD00501,2025-08-01,Bookshelf,Furniture,East,Small Business,3,120,78.34,0.05,342.00,235.02,106.98,31.28
+ORD01000,2025-12-31,Notebook Pack,Office Supplies,South,Consumer,4,18,6.78,0.05,68.40,27.12,41.28,60.35
+ORD00080,2025-02-09,Bookshelf,Furniture,West,Small Business,2,120,81.08,0.4,144.00,162.16,-18.16,-12.61
+ORD00002,2025-01-02,Paper Ream,Office Supplies,East,Consumer,3,9,5.26,0.0,27.00,15.78,11.22,41.56

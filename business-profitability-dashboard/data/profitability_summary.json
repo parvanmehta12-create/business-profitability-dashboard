@@ -1,0 +1,16 @@
+{
+  "source": "sales_clean.csv",
+  "data_type": "synthetic",
+  "currency": "USD",
+  "transaction_count": 1000,
+  "total_revenue": "385286.35",
+  "total_cost_of_goods_sold": "305303.59",
+  "total_gross_profit": "79982.76",
+  "overall_gross_margin_pct": "20.76",
+  "loss_making_transactions": 56,
+  "zero_revenue_transactions": 0,
+  "totals_reconcile": true,
+  "rounding": "Revenue and COGS rounded per transaction to USD cents, half up. Gross profit is their difference.",
+  "margin_definition": "Gross profit / revenue * 100. Overall margin uses totals, not average row margins. Blank CSV or null JSON margin means zero revenue.",
+  "scope": "Gross profit excludes operating expenses, interest, and taxes. USD amounts are exact decimal strings in JSON."
+}
