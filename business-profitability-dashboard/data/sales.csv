@@ -1,0 +1,1001 @@
+order_id,date,product,category,region,customer_segment,quantity,unit_price,unit_cost,discount_pct
+ORD00001,2025-01-01,Printer,Technology,Central,Corporate,3,200,165.32,0.1
+ORD00002,2025-01-02,Paper Ream,Office Supplies,East,Consumer,3,9,5.26,0
+ORD00003,2025-01-02,Bookshelf,Furniture,East,Consumer,1,120,77.99,0.15
+ORD00004,2025-01-02,Pen Set,Office Supplies,West,Consumer,3,12,3.76,0.05
+ORD00005,2025-01-03,Office Chair,Furniture,Central,Small Business,7,150,93.61,0
+ORD00006,2025-01-03,Pen Set,Office Supplies,South,Corporate,9,12,3.52,0
+ORD00007,2025-01-03,Desk Organizer,Office Supplies,West,Consumer,2,25,11.63,0.05
+ORD00008,2025-01-04,Bookshelf,Furniture,East,Small Business,1,120,80.45,0.05
+ORD00009,2025-01-04,Printer,Technology,Central,Consumer,4,200,166.51,0.05
+ORD00010,2025-01-05,Pen Set,Office Supplies,West,Consumer,4,12,3.44,0
+ORD00011,2025-01-05,Monitor,Technology,East,Consumer,3,240,181.34,0
+ORD00012,2025-01-06,Monitor,Technology,West,Corporate,6,240,185.5,0.05
+ORD00013,2025-01-06,Filing Cabinet,Furniture,South,Corporate,7,180,138.86,0
+ORD00014,2025-01-07,Notebook Pack,Office Supplies,South,Consumer,4,18,6.91,0.15
+ORD00015,2025-01-08,Paper Ream,Office Supplies,East,Small Business,2,9,5.19,0
+ORD00016,2025-01-08,Standing Desk,Furniture,West,Small Business,5,350,241.19,0
+ORD00017,2025-01-08,Office Chair,Furniture,South,Consumer,1,150,98.08,0.05
+ORD00018,2025-01-09,Standing Desk,Furniture,Central,Small Business,7,350,242.21,0.1
+ORD00019,2025-01-09,Paper Ream,Office Supplies,South,Small Business,7,9,5.47,0
+ORD00020,2025-01-09,Paper Ream,Office Supplies,South,Corporate,3,9,5.19,0.15
+ORD00021,2025-01-10,Notebook Pack,Office Supplies,South,Corporate,11,18,6.63,0.05
+ORD00022,2025-01-11,Office Chair,Furniture,East,Consumer,4,150,94.68,0
+ORD00023,2025-01-12,Keyboard,Technology,South,Corporate,5,45,22.32,0
+ORD00024,2025-01-13,Filing Cabinet,Furniture,East,Small Business,3,180,134.35,0
+ORD00025,2025-01-13,Notebook Pack,Office Supplies,West,Consumer,3,18,6.63,0.1
+ORD00026,2025-01-14,Desk Organizer,Office Supplies,South,Consumer,1,25,10.93,0
+ORD00027,2025-01-15,Wireless Mouse,Technology,South,Small Business,5,30,12.28,0.05
+ORD00028,2025-01-15,Standing Desk,Furniture,East,Consumer,2,350,246.42,0.05
+ORD00029,2025-01-16,Pen Set,Office Supplies,South,Consumer,1,12,3.61,0.4
+ORD00030,2025-01-17,Pen Set,Office Supplies,West,Corporate,3,12,3.6,0
+ORD00031,2025-01-17,Monitor,Technology,East,Consumer,2,240,174.56,0.05
+ORD00032,2025-01-18,Pen Set,Office Supplies,South,Small Business,7,12,3.66,0.3
+ORD00033,2025-01-18,Bookshelf,Furniture,East,Small Business,2,120,84.64,0
+ORD00034,2025-01-19,Standing Desk,Furniture,South,Consumer,3,350,254.43,0
+ORD00035,2025-01-20,Desk Organizer,Office Supplies,South,Small Business,6,25,11.51,0
+ORD00036,2025-01-20,Pen Set,Office Supplies,East,Small Business,1,12,3.63,0.05
+ORD00037,2025-01-20,Desk Organizer,Office Supplies,West,Consumer,2,25,10.92,0.1
+ORD00038,2025-01-20,Keyboard,Technology,Central,Consumer,1,45,21.77,0.05
+ORD00039,2025-01-21,Wireless Mouse,Technology,East,Consumer,3,30,12.86,0.1
+ORD00040,2025-01-21,Pen Set,Office Supplies,South,Consumer,4,12,3.75,0.05
+ORD00041,2025-01-21,Desk Organizer,Office Supplies,East,Small Business,1,25,11.51,0
+ORD00042,2025-01-22,Standing Desk,Furniture,East,Consumer,4,350,249.1,0.1
+ORD00043,2025-01-22,Notebook Pack,Office Supplies,West,Consumer,3,18,6.77,0
+ORD00044,2025-01-22,Monitor,Technology,West,Small Business,7,240,190.41,0.05
+ORD00045,2025-01-22,Paper Ream,Office Supplies,South,Small Business,7,9,5.62,0
+ORD00046,2025-01-23,Notebook Pack,Office Supplies,Central,Small Business,6,18,6.78,0.1
+ORD00047,2025-01-24,Keyboard,Technology,Central,Corporate,8,45,22.62,0.05
+ORD00048,2025-01-24,Printer,Technology,East,Consumer,3,200,166.8,0.15
+ORD00049,2025-01-24,Wireless Mouse,Technology,East,Consumer,3,30,12.93,0.4
+ORD00050,2025-01-24,Paper Ream,Office Supplies,West,Small Business,5,9,5.26,0.1
+ORD00051,2025-01-24,Printer,Technology,East,Small Business,7,200,171.67,0.1
+ORD00052,2025-01-24,Bookshelf,Furniture,South,Consumer,3,120,80.88,0.15
+ORD00053,2025-01-25,Keyboard,Technology,Central,Small Business,5,45,21.81,0.3
+ORD00054,2025-01-25,Wireless Mouse,Technology,South,Corporate,12,30,12.87,0.1
+ORD00055,2025-01-26,Filing Cabinet,Furniture,South,Consumer,1,180,147.41,0
+ORD00056,2025-01-26,Desk Organizer,Office Supplies,West,Corporate,11,25,11.44,0.05
+ORD00057,2025-01-27,Office Chair,Furniture,South,Consumer,4,150,100.63,0
+ORD00058,2025-01-28,Office Chair,Furniture,South,Corporate,4,150,97.36,0
+ORD00059,2025-01-28,Bookshelf,Furniture,East,Consumer,2,120,85.2,0.05
+ORD00060,2025-01-29,Printer,Technology,East,Corporate,5,200,163.65,0
+ORD00061,2025-01-29,Paper Ream,Office Supplies,South,Small Business,2,9,5.29,0.1
+ORD00062,2025-01-30,Bookshelf,Furniture,West,Consumer,2,120,84.4,0.1
+ORD00063,2025-01-30,Paper Ream,Office Supplies,Central,Small Business,7,9,5.14,0.3
+ORD00064,2025-01-30,Wireless Mouse,Technology,South,Small Business,2,30,13.2,0.2
+ORD00065,2025-01-31,Notebook Pack,Office Supplies,East,Small Business,2,18,7.11,0
+ORD00066,2025-02-01,Wireless Mouse,Technology,Central,Small Business,1,30,12.82,0
+ORD00067,2025-02-03,Standing Desk,Furniture,East,Consumer,2,350,250.75,0
+ORD00068,2025-02-04,Office Chair,Furniture,South,Corporate,7,150,98.82,0.3
+ORD00069,2025-02-04,Office Chair,Furniture,East,Corporate,2,150,93.35,0.05
+ORD00070,2025-02-05,Keyboard,Technology,West,Small Business,2,45,22.02,0
+ORD00071,2025-02-05,Paper Ream,Office Supplies,East,Consumer,1,9,5.56,0
+ORD00072,2025-02-06,Paper Ream,Office Supplies,West,Corporate,1,9,5.31,0
+ORD00073,2025-02-06,Keyboard,Technology,East,Corporate,8,45,22.24,0
+ORD00074,2025-02-07,Keyboard,Technology,West,Consumer,4,45,22.59,0.15
+ORD00075,2025-02-07,Filing Cabinet,Furniture,Central,Consumer,2,180,136.82,0
+ORD00076,2025-02-08,Desk Organizer,Office Supplies,Central,Small Business,2,25,10.69,0.1
+ORD00077,2025-02-08,Filing Cabinet,Furniture,South,Small Business,2,180,134.99,0.05
+ORD00078,2025-02-09,Bookshelf,Furniture,Central,Small Business,7,120,82.72,0
+ORD00079,2025-02-09,Keyboard,Technology,East,Small Business,5,45,22.57,0
+ORD00080,2025-02-09,Bookshelf,Furniture,West,Small Business,2,120,81.08,0.4
+ORD00081,2025-02-09,Notebook Pack,Office Supplies,East,Consumer,3,18,7.03,0
+ORD00082,2025-02-10,Wireless Mouse,Technology,West,Corporate,7,30,13.17,0.2
+ORD00083,2025-02-10,Desk Organizer,Office Supplies,East,Corporate,2,25,11.73,0.1
+ORD00084,2025-02-10,Paper Ream,Office Supplies,East,Small Business,7,9,5.56,0.1
+ORD00085,2025-02-10,Printer,Technology,West,Consumer,2,200,163.69,0.05
+ORD00086,2025-02-10,Keyboard,Technology,West,Small Business,3,45,22.08,0
+ORD00087,2025-02-10,Filing Cabinet,Furniture,East,Consumer,1,180,135.16,0.1
+ORD00088,2025-02-10,Pen Set,Office Supplies,West,Consumer,3,12,3.58,0.1
+ORD00089,2025-02-10,Pen Set,Office Supplies,Central,Small Business,4,12,3.67,0
+ORD00090,2025-02-10,Bookshelf,Furniture,West,Small Business,6,120,84.16,0.3
+ORD00091,2025-02-11,Desk Organizer,Office Supplies,East,Consumer,4,25,10.92,0.05
+ORD00092,2025-02-11,Monitor,Technology,West,Consumer,4,240,188.61,0.1
+ORD00093,2025-02-12,Filing Cabinet,Furniture,West,Consumer,2,180,146.91,0.1
+ORD00094,2025-02-13,Bookshelf,Furniture,South,Small Business,5,120,77.74,0.1
+ORD00095,2025-02-13,Printer,Technology,West,Small Business,3,200,173.58,0.15
+ORD00096,2025-02-13,Pen Set,Office Supplies,Central,Corporate,12,12,3.63,0
+ORD00097,2025-02-14,Pen Set,Office Supplies,Central,Consumer,3,12,3.65,0
+ORD00098,2025-02-14,Printer,Technology,South,Small Business,3,200,161.36,0
+ORD00099,2025-02-15,Printer,Technology,Central,Small Business,4,200,169.27,0.2
+ORD00100,2025-02-15,Notebook Pack,Office Supplies,West,Consumer,1,18,6.66,0.1
+ORD00101,2025-02-16,Standing Desk,Furniture,South,Small Business,4,350,244.05,0.05
+ORD00102,2025-02-17,Desk Organizer,Office Supplies,East,Consumer,3,25,11.76,0
+ORD00103,2025-02-17,Printer,Technology,Central,Small Business,4,200,168.8,0.2
+ORD00104,2025-02-17,Paper Ream,Office Supplies,Central,Small Business,3,9,5.53,0.05
+ORD00105,2025-02-18,Standing Desk,Furniture,East,Consumer,2,350,255.68,0.1
+ORD00106,2025-02-18,Desk Organizer,Office Supplies,West,Consumer,4,25,11.36,0.05
+ORD00107,2025-02-19,Printer,Technology,West,Corporate,5,200,163.72,0
+ORD00108,2025-02-19,Printer,Technology,South,Consumer,4,200,170.03,0
+ORD00109,2025-02-21,Filing Cabinet,Furniture,Central,Small Business,1,180,146.71,0.15
+ORD00110,2025-02-22,Standing Desk,Furniture,West,Corporate,9,350,254.41,0.4
+ORD00111,2025-02-23,Wireless Mouse,Technology,West,Small Business,1,30,12.93,0.2
+ORD00112,2025-02-23,Office Chair,Furniture,South,Small Business,2,150,99.96,0.1
+ORD00113,2025-02-24,Monitor,Technology,South,Small Business,5,240,190.64,0
+ORD00114,2025-02-24,Printer,Technology,Central,Consumer,3,200,175.05,0.1
+ORD00115,2025-02-25,Standing Desk,Furniture,East,Small Business,4,350,256.24,0.1
+ORD00116,2025-02-25,Keyboard,Technology,East,Small Business,6,45,20.99,0
+ORD00117,2025-02-25,Printer,Technology,East,Small Business,5,200,176.07,0.1
+ORD00118,2025-02-25,Pen Set,Office Supplies,South,Consumer,2,12,3.52,0.1
+ORD00119,2025-02-25,Pen Set,Office Supplies,Central,Consumer,3,12,3.69,0.1
+ORD00120,2025-02-26,Standing Desk,Furniture,Central,Consumer,4,350,245.68,0
+ORD00121,2025-02-26,Wireless Mouse,Technology,West,Small Business,5,30,12.59,0.2
+ORD00122,2025-02-26,Paper Ream,Office Supplies,Central,Consumer,3,9,5.26,0
+ORD00123,2025-02-26,Notebook Pack,Office Supplies,Central,Small Business,5,18,6.86,0
+ORD00124,2025-02-26,Paper Ream,Office Supplies,East,Consumer,2,9,5.42,0.05
+ORD00125,2025-02-28,Notebook Pack,Office Supplies,South,Consumer,4,18,6.63,0.05
+ORD00126,2025-03-01,Notebook Pack,Office Supplies,West,Small Business,3,18,6.81,0.05
+ORD00127,2025-03-01,Pen Set,Office Supplies,Central,Small Business,5,12,3.72,0.3
+ORD00128,2025-03-02,Paper Ream,Office Supplies,East,Small Business,5,9,5.2,0.05
+ORD00129,2025-03-03,Desk Organizer,Office Supplies,West,Consumer,4,25,11.09,0.05
+ORD00130,2025-03-03,Bookshelf,Furniture,Central,Consumer,3,120,80.98,0.05
+ORD00131,2025-03-04,Notebook Pack,Office Supplies,South,Consumer,4,18,7.12,0
+ORD00132,2025-03-04,Standing Desk,Furniture,Central,Small Business,4,350,246.95,0
+ORD00133,2025-03-04,Bookshelf,Furniture,West,Small Business,6,120,78.6,0.2
+ORD00134,2025-03-04,Monitor,Technology,West,Small Business,7,240,188.83,0.1
+ORD00135,2025-03-06,Notebook Pack,Office Supplies,West,Small Business,2,18,6.91,0
+ORD00136,2025-03-07,Monitor,Technology,West,Consumer,2,240,189.27,0.15
+ORD00137,2025-03-07,Paper Ream,Office Supplies,West,Consumer,1,9,5.58,0.3
+ORD00138,2025-03-08,Monitor,Technology,South,Consumer,2,240,180.05,0.05
+ORD00139,2025-03-09,Wireless Mouse,Technology,West,Small Business,7,30,12.88,0
+ORD00140,2025-03-10,Pen Set,Office Supplies,Central,Small Business,5,12,3.57,0
+ORD00141,2025-03-10,Standing Desk,Furniture,East,Small Business,2,350,250.34,0.15
+ORD00142,2025-03-10,Office Chair,Furniture,East,Small Business,3,150,94.04,0.05
+ORD00143,2025-03-10,Keyboard,Technology,West,Corporate,1,45,21.94,0.4
+ORD00144,2025-03-10,Desk Organizer,Office Supplies,West,Corporate,4,25,11.08,0.1
+ORD00145,2025-03-11,Office Chair,Furniture,Central,Corporate,10,150,93.24,0
+ORD00146,2025-03-11,Keyboard,Technology,Central,Consumer,1,45,20.63,0
+ORD00147,2025-03-12,Printer,Technology,West,Consumer,1,200,165.77,0.4
+ORD00148,2025-03-12,Standing Desk,Furniture,West,Small Business,7,350,240.91,0
+ORD00149,2025-03-13,Monitor,Technology,West,Consumer,4,240,180.24,0
+ORD00150,2025-03-13,Paper Ream,Office Supplies,Central,Consumer,3,9,5.26,0
+ORD00151,2025-03-13,Bookshelf,Furniture,South,Small Business,1,120,82.69,0
+ORD00152,2025-03-13,Office Chair,Furniture,East,Small Business,4,150,94.16,0.05
+ORD00153,2025-03-14,Desk Organizer,Office Supplies,East,Small Business,7,25,11.22,0.05
+ORD00154,2025-03-14,Printer,Technology,South,Consumer,1,200,175.5,0
+ORD00155,2025-03-14,Paper Ream,Office Supplies,East,Small Business,3,9,5.33,0
+ORD00156,2025-03-14,Wireless Mouse,Technology,West,Small Business,6,30,12.51,0
+ORD00157,2025-03-14,Notebook Pack,Office Supplies,West,Small Business,3,18,7.14,0.2
+ORD00158,2025-03-15,Keyboard,Technology,Central,Small Business,7,45,21.1,0
+ORD00159,2025-03-15,Filing Cabinet,Furniture,South,Corporate,2,180,135.54,0.1
+ORD00160,2025-03-15,Keyboard,Technology,West,Small Business,3,45,22.64,0.2
+ORD00161,2025-03-16,Pen Set,Office Supplies,West,Consumer,2,12,3.55,0.2
+ORD00162,2025-03-19,Bookshelf,Furniture,East,Corporate,5,120,80.98,0.1
+ORD00163,2025-03-19,Desk Organizer,Office Supplies,Central,Small Business,6,25,11.68,0.1
+ORD00164,2025-03-19,Notebook Pack,Office Supplies,West,Small Business,2,18,7.08,0.15
+ORD00165,2025-03-19,Monitor,Technology,Central,Small Business,5,240,174.24,0
+ORD00166,2025-03-20,Standing Desk,Furniture,Central,Small Business,1,350,247.8,0
+ORD00167,2025-03-20,Pen Set,Office Supplies,East,Consumer,3,12,3.64,0.05
+ORD00168,2025-03-21,Office Chair,Furniture,Central,Consumer,2,150,100.24,0
+ORD00169,2025-03-21,Monitor,Technology,West,Small Business,1,240,188.83,0.2
+ORD00170,2025-03-22,Desk Organizer,Office Supplies,South,Consumer,2,25,10.73,0.05
+ORD00171,2025-03-22,Paper Ream,Office Supplies,East,Corporate,8,9,5.58,0
+ORD00172,2025-03-22,Paper Ream,Office Supplies,Central,Small Business,3,9,5.34,0
+ORD00173,2025-03-23,Bookshelf,Furniture,South,Consumer,4,120,85.46,0
+ORD00174,2025-03-23,Notebook Pack,Office Supplies,West,Consumer,4,18,6.52,0.2
+ORD00175,2025-03-23,Wireless Mouse,Technology,West,Consumer,4,30,12.07,0
+ORD00176,2025-03-24,Monitor,Technology,West,Consumer,4,240,180.21,0
+ORD00177,2025-03-25,Filing Cabinet,Furniture,West,Consumer,4,180,143.84,0
+ORD00178,2025-03-25,Monitor,Technology,East,Corporate,12,240,189.89,0.4
+ORD00179,2025-03-25,Paper Ream,Office Supplies,East,Consumer,2,9,5.62,0.1
+ORD00180,2025-03-25,Monitor,Technology,East,Consumer,3,240,179.68,0.3
+ORD00181,2025-03-25,Pen Set,Office Supplies,West,Consumer,1,12,3.46,0
+ORD00182,2025-03-26,Printer,Technology,East,Consumer,4,200,170.98,0.2
+ORD00183,2025-03-27,Keyboard,Technology,West,Corporate,3,45,22.3,0
+ORD00184,2025-03-27,Bookshelf,Furniture,Central,Consumer,2,120,84.15,0.1
+ORD00185,2025-03-28,Pen Set,Office Supplies,West,Small Business,2,12,3.59,0.05
+ORD00186,2025-03-28,Printer,Technology,South,Consumer,3,200,167.47,0.15
+ORD00187,2025-03-28,Standing Desk,Furniture,East,Corporate,11,350,264.09,0.1
+ORD00188,2025-03-28,Paper Ream,Office Supplies,South,Small Business,2,9,5.61,0.05
+ORD00189,2025-03-29,Filing Cabinet,Furniture,West,Consumer,1,180,147.2,0
+ORD00190,2025-03-30,Printer,Technology,West,Consumer,2,200,164.24,0.2
+ORD00191,2025-03-30,Wireless Mouse,Technology,Central,Consumer,2,30,12.77,0
+ORD00192,2025-03-31,Pen Set,Office Supplies,East,Small Business,5,12,3.7,0
+ORD00193,2025-03-31,Paper Ream,Office Supplies,West,Small Business,1,9,5.39,0
+ORD00194,2025-03-31,Wireless Mouse,Technology,South,Small Business,3,30,12.41,0.1
+ORD00195,2025-03-31,Pen Set,Office Supplies,East,Consumer,2,12,3.7,0.15
+ORD00196,2025-04-01,Paper Ream,Office Supplies,East,Corporate,12,9,5.41,0
+ORD00197,2025-04-03,Keyboard,Technology,East,Small Business,5,45,21.67,0.1
+ORD00198,2025-04-03,Printer,Technology,West,Consumer,1,200,173.63,0
+ORD00199,2025-04-04,Desk Organizer,Office Supplies,South,Small Business,2,25,11.2,0.2
+ORD00200,2025-04-05,Printer,Technology,East,Corporate,2,200,172.84,0
+ORD00201,2025-04-05,Desk Organizer,Office Supplies,West,Consumer,1,25,11.75,0.1
+ORD00202,2025-04-05,Paper Ream,Office Supplies,Central,Small Business,4,9,5.6,0.05
+ORD00203,2025-04-06,Pen Set,Office Supplies,East,Consumer,2,12,3.7,0.2
+ORD00204,2025-04-06,Standing Desk,Furniture,West,Corporate,9,350,241.99,0
+ORD00205,2025-04-06,Standing Desk,Furniture,West,Consumer,3,350,245.08,0.3
+ORD00206,2025-04-07,Office Chair,Furniture,East,Consumer,1,150,95.65,0
+ORD00207,2025-04-08,Desk Organizer,Office Supplies,Central,Consumer,3,25,11.57,0.3
+ORD00208,2025-04-08,Paper Ream,Office Supplies,East,Consumer,1,9,5.56,0.4
+ORD00209,2025-04-09,Printer,Technology,West,Consumer,1,200,160.85,0.05
+ORD00210,2025-04-09,Wireless Mouse,Technology,South,Small Business,1,30,12.21,0.15
+ORD00211,2025-04-10,Pen Set,Office Supplies,West,Small Business,1,12,3.77,0.05
+ORD00212,2025-04-10,Pen Set,Office Supplies,East,Consumer,4,12,3.54,0.05
+ORD00213,2025-04-10,Pen Set,Office Supplies,Central,Corporate,11,12,3.56,0.1
+ORD00214,2025-04-10,Bookshelf,Furniture,Central,Consumer,4,120,83.39,0.4
+ORD00215,2025-04-11,Pen Set,Office Supplies,East,Small Business,1,12,3.62,0
+ORD00216,2025-04-11,Keyboard,Technology,East,Consumer,2,45,22,0.2
+ORD00217,2025-04-12,Paper Ream,Office Supplies,West,Consumer,3,9,5.25,0
+ORD00218,2025-04-12,Bookshelf,Furniture,Central,Consumer,2,120,82.5,0.3
+ORD00219,2025-04-12,Monitor,Technology,East,Small Business,5,240,186.26,0.3
+ORD00220,2025-04-12,Office Chair,Furniture,West,Consumer,2,150,93.42,0.05
+ORD00221,2025-04-12,Printer,Technology,East,Corporate,10,200,164.21,0.4
+ORD00222,2025-04-12,Office Chair,Furniture,East,Small Business,5,150,99.25,0.15
+ORD00223,2025-04-12,Standing Desk,Furniture,West,Small Business,2,350,259.06,0.2
+ORD00224,2025-04-13,Wireless Mouse,Technology,South,Consumer,3,30,11.99,0
+ORD00225,2025-04-14,Notebook Pack,Office Supplies,South,Small Business,1,18,6.66,0.15
+ORD00226,2025-04-14,Office Chair,Furniture,Central,Consumer,2,150,93.46,0.1
+ORD00227,2025-04-15,Standing Desk,Furniture,Central,Small Business,5,350,259.35,0.1
+ORD00228,2025-04-15,Filing Cabinet,Furniture,West,Corporate,8,180,144.3,0.15
+ORD00229,2025-04-16,Bookshelf,Furniture,East,Corporate,12,120,83.71,0.2
+ORD00230,2025-04-17,Standing Desk,Furniture,East,Small Business,1,350,247.22,0.05
+ORD00231,2025-04-17,Printer,Technology,Central,Consumer,2,200,164.49,0.1
+ORD00232,2025-04-17,Keyboard,Technology,East,Small Business,7,45,21.72,0.4
+ORD00233,2025-04-17,Desk Organizer,Office Supplies,West,Corporate,5,25,11.51,0.15
+ORD00234,2025-04-18,Pen Set,Office Supplies,Central,Consumer,4,12,3.54,0.1
+ORD00235,2025-04-18,Filing Cabinet,Furniture,Central,Consumer,3,180,147.18,0.05
+ORD00236,2025-04-19,Printer,Technology,West,Small Business,4,200,174.42,0.1
+ORD00237,2025-04-19,Paper Ream,Office Supplies,West,Consumer,1,9,5.5,0.1
+ORD00238,2025-04-19,Keyboard,Technology,West,Small Business,2,45,21.38,0.05
+ORD00239,2025-04-19,Notebook Pack,Office Supplies,West,Consumer,1,18,6.71,0
+ORD00240,2025-04-20,Keyboard,Technology,Central,Consumer,4,45,21.48,0
+ORD00241,2025-04-21,Office Chair,Furniture,West,Corporate,4,150,97.26,0
+ORD00242,2025-04-21,Standing Desk,Furniture,West,Small Business,1,350,257.93,0.15
+ORD00243,2025-04-21,Keyboard,Technology,South,Consumer,3,45,22.25,0
+ORD00244,2025-04-22,Desk Organizer,Office Supplies,East,Small Business,7,25,11.13,0.05
+ORD00245,2025-04-22,Wireless Mouse,Technology,East,Small Business,5,30,12.39,0.2
+ORD00246,2025-04-22,Desk Organizer,Office Supplies,West,Consumer,3,25,11.49,0.1
+ORD00247,2025-04-23,Notebook Pack,Office Supplies,Central,Consumer,4,18,6.86,0.4
+ORD00248,2025-04-23,Notebook Pack,Office Supplies,East,Small Business,4,18,6.92,0
+ORD00249,2025-04-24,Filing Cabinet,Furniture,South,Consumer,2,180,135.44,0
+ORD00250,2025-04-24,Bookshelf,Furniture,Central,Corporate,11,120,78.28,0.3
+ORD00251,2025-04-25,Filing Cabinet,Furniture,East,Consumer,1,180,144.23,0
+ORD00252,2025-04-25,Notebook Pack,Office Supplies,South,Consumer,2,18,7.12,0
+ORD00253,2025-04-26,Bookshelf,Furniture,South,Small Business,7,120,83.35,0
+ORD00254,2025-04-26,Standing Desk,Furniture,East,Consumer,4,350,260.48,0
+ORD00255,2025-04-26,Office Chair,Furniture,East,Small Business,4,150,93.28,0
+ORD00256,2025-04-27,Bookshelf,Furniture,Central,Small Business,6,120,78.24,0.3
+ORD00257,2025-04-27,Printer,Technology,West,Consumer,3,200,174.12,0
+ORD00258,2025-04-27,Notebook Pack,Office Supplies,West,Corporate,4,18,6.59,0.15
+ORD00259,2025-04-27,Filing Cabinet,Furniture,East,Corporate,12,180,144.49,0.1
+ORD00260,2025-04-28,Paper Ream,Office Supplies,Central,Small Business,6,9,5.37,0
+ORD00261,2025-04-28,Notebook Pack,Office Supplies,West,Corporate,3,18,7.13,0.1
+ORD00262,2025-04-29,Notebook Pack,Office Supplies,Central,Corporate,9,18,6.73,0
+ORD00263,2025-04-29,Wireless Mouse,Technology,South,Small Business,4,30,12.21,0
+ORD00264,2025-04-30,Desk Organizer,Office Supplies,East,Consumer,1,25,11.34,0.2
+ORD00265,2025-04-30,Bookshelf,Furniture,South,Consumer,2,120,84.74,0.15
+ORD00266,2025-05-01,Printer,Technology,West,Consumer,1,200,168.09,0.3
+ORD00267,2025-05-01,Paper Ream,Office Supplies,Central,Consumer,1,9,5.61,0.05
+ORD00268,2025-05-02,Office Chair,Furniture,South,Consumer,3,150,100.1,0.1
+ORD00269,2025-05-02,Filing Cabinet,Furniture,East,Consumer,3,180,145.77,0.05
+ORD00270,2025-05-02,Desk Organizer,Office Supplies,West,Consumer,4,25,11.32,0
+ORD00271,2025-05-02,Desk Organizer,Office Supplies,East,Small Business,5,25,11.16,0.05
+ORD00272,2025-05-03,Bookshelf,Furniture,Central,Small Business,5,120,82.35,0.1
+ORD00273,2025-05-03,Monitor,Technology,East,Corporate,6,240,185.24,0.3
+ORD00274,2025-05-04,Pen Set,Office Supplies,Central,Consumer,4,12,3.78,0.05
+ORD00275,2025-05-04,Notebook Pack,Office Supplies,West,Consumer,3,18,6.81,0
+ORD00276,2025-05-05,Wireless Mouse,Technology,Central,Consumer,4,30,12.28,0
+ORD00277,2025-05-06,Wireless Mouse,Technology,West,Consumer,4,30,12.25,0
+ORD00278,2025-05-07,Keyboard,Technology,South,Small Business,7,45,22.67,0
+ORD00279,2025-05-07,Notebook Pack,Office Supplies,South,Small Business,5,18,6.84,0.05
+ORD00280,2025-05-07,Notebook Pack,Office Supplies,East,Consumer,3,18,7.13,0.1
+ORD00281,2025-05-08,Bookshelf,Furniture,East,Small Business,2,120,84.91,0
+ORD00282,2025-05-08,Office Chair,Furniture,East,Consumer,1,150,97.16,0.1
+ORD00283,2025-05-08,Office Chair,Furniture,East,Corporate,12,150,98.26,0.1
+ORD00284,2025-05-09,Notebook Pack,Office Supplies,South,Corporate,4,18,6.87,0.1
+ORD00285,2025-05-09,Standing Desk,Furniture,West,Small Business,4,350,241.84,0
+ORD00286,2025-05-09,Monitor,Technology,West,Consumer,3,240,186.47,0
+ORD00287,2025-05-10,Filing Cabinet,Furniture,Central,Small Business,4,180,134.22,0
+ORD00288,2025-05-10,Notebook Pack,Office Supplies,East,Corporate,5,18,6.97,0.1
+ORD00289,2025-05-11,Printer,Technology,West,Small Business,5,200,174.07,0
+ORD00290,2025-05-11,Notebook Pack,Office Supplies,East,Corporate,3,18,6.92,0.05
+ORD00291,2025-05-11,Monitor,Technology,Central,Consumer,3,240,187.09,0.1
+ORD00292,2025-05-12,Bookshelf,Furniture,West,Corporate,7,120,84.97,0.1
+ORD00293,2025-05-12,Standing Desk,Furniture,West,Small Business,1,350,242.23,0.3
+ORD00294,2025-05-12,Wireless Mouse,Technology,South,Consumer,2,30,13.15,0
+ORD00295,2025-05-13,Keyboard,Technology,Central,Corporate,3,45,21.63,0.15
+ORD00296,2025-05-13,Bookshelf,Furniture,Central,Small Business,7,120,80.2,0.05
+ORD00297,2025-05-13,Keyboard,Technology,East,Corporate,9,45,22.63,0
+ORD00298,2025-05-14,Monitor,Technology,South,Corporate,4,240,189.74,0.3
+ORD00299,2025-05-14,Standing Desk,Furniture,East,Consumer,2,350,244.54,0.05
+ORD00300,2025-05-14,Filing Cabinet,Furniture,Central,Consumer,3,180,134.79,0.1
+ORD00301,2025-05-15,Standing Desk,Furniture,South,Consumer,4,350,242.78,0.2
+ORD00302,2025-05-15,Office Chair,Furniture,West,Small Business,5,150,97.13,0
+ORD00303,2025-05-15,Office Chair,Furniture,Central,Corporate,11,150,96.76,0.1
+ORD00304,2025-05-15,Office Chair,Furniture,East,Consumer,2,150,99.98,0.05
+ORD00305,2025-05-17,Keyboard,Technology,West,Consumer,4,45,21.12,0.15
+ORD00306,2025-05-17,Monitor,Technology,Central,Small Business,5,240,183.55,0.05
+ORD00307,2025-05-18,Bookshelf,Furniture,West,Small Business,3,120,84.6,0.1
+ORD00308,2025-05-18,Desk Organizer,Office Supplies,West,Consumer,3,25,11.47,0.3
+ORD00309,2025-05-18,Notebook Pack,Office Supplies,South,Consumer,2,18,7.08,0
+ORD00310,2025-05-18,Office Chair,Furniture,West,Small Business,1,150,93.3,0.3
+ORD00311,2025-05-19,Pen Set,Office Supplies,West,Small Business,4,12,3.65,0
+ORD00312,2025-05-19,Printer,Technology,East,Consumer,4,200,168.17,0
+ORD00313,2025-05-20,Desk Organizer,Office Supplies,South,Small Business,4,25,11.43,0
+ORD00314,2025-05-20,Paper Ream,Office Supplies,Central,Small Business,4,9,5.26,0
+ORD00315,2025-05-20,Paper Ream,Office Supplies,South,Consumer,2,9,5.2,0
+ORD00316,2025-05-20,Office Chair,Furniture,East,Consumer,1,150,99.18,0.05
+ORD00317,2025-05-21,Printer,Technology,East,Consumer,4,200,164.95,0.15
+ORD00318,2025-05-22,Printer,Technology,Central,Consumer,1,200,169.41,0.4
+ORD00319,2025-05-22,Notebook Pack,Office Supplies,East,Consumer,4,18,6.71,0.05
+ORD00320,2025-05-22,Wireless Mouse,Technology,West,Small Business,7,30,12.79,0.05
+ORD00321,2025-05-22,Desk Organizer,Office Supplies,Central,Consumer,4,25,11.74,0.1
+ORD00322,2025-05-24,Pen Set,Office Supplies,East,Small Business,5,12,3.75,0
+ORD00323,2025-05-24,Standing Desk,Furniture,Central,Consumer,1,350,243.81,0.3
+ORD00324,2025-05-25,Notebook Pack,Office Supplies,Central,Corporate,4,18,6.91,0.1
+ORD00325,2025-05-25,Printer,Technology,East,Consumer,2,200,176.04,0.15
+ORD00326,2025-05-26,Office Chair,Furniture,East,Small Business,4,150,94.08,0.05
+ORD00327,2025-05-27,Pen Set,Office Supplies,Central,Consumer,2,12,3.76,0
+ORD00328,2025-05-27,Notebook Pack,Office Supplies,West,Corporate,6,18,7.05,0.3
+ORD00329,2025-05-27,Bookshelf,Furniture,South,Consumer,4,120,79.04,0.15
+ORD00330,2025-05-27,Monitor,Technology,Central,Consumer,1,240,183.83,0.15
+ORD00331,2025-05-28,Notebook Pack,Office Supplies,Central,Corporate,12,18,6.98,0.1
+ORD00332,2025-05-29,Wireless Mouse,Technology,Central,Consumer,3,30,12.35,0.1
+ORD00333,2025-05-29,Desk Organizer,Office Supplies,South,Corporate,1,25,11.33,0
+ORD00334,2025-05-29,Bookshelf,Furniture,West,Small Business,6,120,83.15,0.15
+ORD00335,2025-05-29,Paper Ream,Office Supplies,South,Consumer,4,9,5.63,0.05
+ORD00336,2025-05-29,Paper Ream,Office Supplies,Central,Consumer,2,9,5.41,0.4
+ORD00337,2025-05-30,Printer,Technology,West,Consumer,3,200,169.23,0
+ORD00338,2025-05-30,Bookshelf,Furniture,East,Small Business,2,120,85.15,0.05
+ORD00339,2025-05-31,Printer,Technology,West,Consumer,3,200,170.45,0
+ORD00340,2025-05-31,Wireless Mouse,Technology,West,Consumer,2,30,12.51,0.1
+ORD00341,2025-06-01,Filing Cabinet,Furniture,West,Consumer,2,180,143.94,0
+ORD00342,2025-06-02,Paper Ream,Office Supplies,West,Small Business,5,9,5.5,0.4
+ORD00343,2025-06-03,Printer,Technology,East,Consumer,1,200,171.87,0.2
+ORD00344,2025-06-03,Printer,Technology,Central,Small Business,3,200,171.54,0
+ORD00345,2025-06-03,Printer,Technology,East,Corporate,8,200,161.57,0.2
+ORD00346,2025-06-03,Monitor,Technology,Central,Consumer,1,240,186.96,0.05
+ORD00347,2025-06-04,Notebook Pack,Office Supplies,Central,Consumer,4,18,6.55,0
+ORD00348,2025-06-04,Printer,Technology,Central,Consumer,2,200,175.54,0
+ORD00349,2025-06-04,Notebook Pack,Office Supplies,South,Small Business,2,18,7.04,0.3
+ORD00350,2025-06-05,Notebook Pack,Office Supplies,West,Small Business,7,18,6.99,0.4
+ORD00351,2025-06-05,Bookshelf,Furniture,West,Small Business,6,120,80.46,0.05
+ORD00352,2025-06-05,Office Chair,Furniture,South,Corporate,12,150,95.06,0.2
+ORD00353,2025-06-06,Desk Organizer,Office Supplies,Central,Small Business,6,25,10.88,0.15
+ORD00354,2025-06-07,Keyboard,Technology,East,Small Business,1,45,21.98,0
+ORD00355,2025-06-07,Keyboard,Technology,West,Corporate,4,45,20.77,0.3
+ORD00356,2025-06-07,Filing Cabinet,Furniture,East,Consumer,4,180,142.05,0.05
+ORD00357,2025-06-07,Keyboard,Technology,West,Small Business,5,45,21.55,0.05
+ORD00358,2025-06-07,Wireless Mouse,Technology,East,Consumer,2,30,12.69,0.15
+ORD00359,2025-06-08,Standing Desk,Furniture,Central,Small Business,5,350,256.67,0.05
+ORD00360,2025-06-09,Wireless Mouse,Technology,East,Small Business,5,30,11.99,0.4
+ORD00361,2025-06-09,Bookshelf,Furniture,East,Small Business,7,120,84.01,0.05
+ORD00362,2025-06-10,Wireless Mouse,Technology,Central,Consumer,2,30,12.16,0
+ORD00363,2025-06-11,Paper Ream,Office Supplies,South,Consumer,2,9,5.23,0.05
+ORD00364,2025-06-11,Filing Cabinet,Furniture,West,Small Business,5,180,139.87,0.05
+ORD00365,2025-06-11,Notebook Pack,Office Supplies,East,Small Business,6,18,6.89,0
+ORD00366,2025-06-12,Standing Desk,Furniture,East,Consumer,3,350,241.6,0
+ORD00367,2025-06-12,Wireless Mouse,Technology,East,Small Business,3,30,12.88,0.3
+ORD00368,2025-06-12,Desk Organizer,Office Supplies,West,Consumer,1,25,10.97,0
+ORD00369,2025-06-13,Pen Set,Office Supplies,Central,Corporate,6,12,3.52,0
+ORD00370,2025-06-13,Printer,Technology,West,Consumer,4,200,169.44,0
+ORD00371,2025-06-13,Keyboard,Technology,West,Corporate,6,45,21.74,0
+ORD00372,2025-06-14,Notebook Pack,Office Supplies,South,Small Business,3,18,6.72,0
+ORD00373,2025-06-14,Wireless Mouse,Technology,West,Small Business,1,30,12.42,0
+ORD00374,2025-06-16,Bookshelf,Furniture,East,Consumer,2,120,81.07,0
+ORD00375,2025-06-16,Bookshelf,Furniture,West,Consumer,2,120,81.52,0.1
+ORD00376,2025-06-16,Printer,Technology,West,Corporate,3,200,160.12,0
+ORD00377,2025-06-16,Desk Organizer,Office Supplies,South,Consumer,3,25,11.67,0.1
+ORD00378,2025-06-17,Standing Desk,Furniture,East,Corporate,11,350,249.19,0
+ORD00379,2025-06-17,Desk Organizer,Office Supplies,Central,Small Business,1,25,10.99,0.1
+ORD00380,2025-06-18,Keyboard,Technology,Central,Consumer,3,45,21.3,0
+ORD00381,2025-06-18,Wireless Mouse,Technology,West,Consumer,3,30,13.01,0
+ORD00382,2025-06-18,Standing Desk,Furniture,Central,Consumer,1,350,260.83,0
+ORD00383,2025-06-18,Standing Desk,Furniture,West,Small Business,2,350,244.37,0.05
+ORD00384,2025-06-18,Printer,Technology,East,Corporate,9,200,166.47,0.1
+ORD00385,2025-06-18,Filing Cabinet,Furniture,East,Consumer,3,180,139.8,0
+ORD00386,2025-06-19,Filing Cabinet,Furniture,West,Consumer,2,180,133.61,0.15
+ORD00387,2025-06-19,Standing Desk,Furniture,West,Consumer,2,350,245.09,0.4
+ORD00388,2025-06-19,Standing Desk,Furniture,East,Small Business,7,350,256.46,0.2
+ORD00389,2025-06-19,Filing Cabinet,Furniture,West,Small Business,6,180,139.64,0.1
+ORD00390,2025-06-19,Desk Organizer,Office Supplies,Central,Corporate,2,25,11.04,0.1
+ORD00391,2025-06-20,Wireless Mouse,Technology,Central,Consumer,4,30,12.64,0.1
+ORD00392,2025-06-20,Bookshelf,Furniture,East,Corporate,1,120,85.29,0.2
+ORD00393,2025-06-22,Paper Ream,Office Supplies,South,Corporate,8,9,5.42,0
+ORD00394,2025-06-22,Office Chair,Furniture,South,Small Business,7,150,102.22,0
+ORD00395,2025-06-22,Wireless Mouse,Technology,Central,Consumer,4,30,12.9,0.05
+ORD00396,2025-06-23,Printer,Technology,South,Small Business,2,200,163.62,0.05
+ORD00397,2025-06-23,Notebook Pack,Office Supplies,West,Small Business,2,18,7.08,0
+ORD00398,2025-06-23,Wireless Mouse,Technology,South,Consumer,4,30,12.96,0.3
+ORD00399,2025-06-23,Wireless Mouse,Technology,West,Small Business,5,30,13.23,0
+ORD00400,2025-06-23,Filing Cabinet,Furniture,West,Consumer,2,180,139.25,0.05
+ORD00401,2025-06-23,Filing Cabinet,Furniture,East,Small Business,3,180,141.95,0.2
+ORD00402,2025-06-24,Printer,Technology,West,Corporate,8,200,164.98,0.15
+ORD00403,2025-06-25,Standing Desk,Furniture,South,Small Business,1,350,260.63,0.05
+ORD00404,2025-06-25,Office Chair,Furniture,South,Small Business,7,150,96.51,0.1
+ORD00405,2025-06-25,Pen Set,Office Supplies,South,Consumer,1,12,3.59,0.3
+ORD00406,2025-06-26,Pen Set,Office Supplies,East,Consumer,2,12,3.73,0.05
+ORD00407,2025-06-26,Wireless Mouse,Technology,East,Small Business,2,30,12.07,0.1
+ORD00408,2025-06-26,Wireless Mouse,Technology,South,Consumer,4,30,12.09,0
+ORD00409,2025-06-27,Desk Organizer,Office Supplies,East,Small Business,6,25,11.64,0
+ORD00410,2025-06-27,Notebook Pack,Office Supplies,South,Consumer,1,18,6.8,0.15
+ORD00411,2025-06-27,Filing Cabinet,Furniture,South,Consumer,2,180,147.41,0
+ORD00412,2025-06-27,Desk Organizer,Office Supplies,West,Consumer,4,25,11.34,0.05
+ORD00413,2025-06-28,Paper Ream,Office Supplies,South,Consumer,1,9,5.33,0
+ORD00414,2025-06-28,Paper Ream,Office Supplies,Central,Small Business,1,9,5.63,0.2
+ORD00415,2025-06-28,Standing Desk,Furniture,Central,Small Business,4,350,249.83,0
+ORD00416,2025-06-28,Keyboard,Technology,South,Consumer,3,45,21.45,0.05
+ORD00417,2025-06-28,Wireless Mouse,Technology,Central,Consumer,4,30,13,0.1
+ORD00418,2025-06-29,Desk Organizer,Office Supplies,West,Consumer,1,25,11.63,0.05
+ORD00419,2025-06-29,Filing Cabinet,Furniture,East,Corporate,10,180,134.03,0.05
+ORD00420,2025-06-30,Desk Organizer,Office Supplies,Central,Corporate,3,25,10.8,0
+ORD00421,2025-07-01,Paper Ream,Office Supplies,Central,Small Business,3,9,5.2,0.3
+ORD00422,2025-07-01,Filing Cabinet,Furniture,East,Corporate,4,180,142.31,0.05
+ORD00423,2025-07-01,Desk Organizer,Office Supplies,South,Corporate,11,25,11.52,0.05
+ORD00424,2025-07-02,Monitor,Technology,South,Small Business,2,240,179.26,0.2
+ORD00425,2025-07-02,Keyboard,Technology,East,Corporate,3,45,21.46,0.3
+ORD00426,2025-07-02,Printer,Technology,West,Consumer,1,200,169.71,0
+ORD00427,2025-07-03,Desk Organizer,Office Supplies,Central,Consumer,1,25,11.22,0
+ORD00428,2025-07-03,Bookshelf,Furniture,Central,Small Business,5,120,82.5,0.1
+ORD00429,2025-07-03,Keyboard,Technology,Central,Corporate,10,45,22.5,0.1
+ORD00430,2025-07-04,Office Chair,Furniture,East,Corporate,8,150,93.16,0.1
+ORD00431,2025-07-04,Paper Ream,Office Supplies,Central,Small Business,1,9,5.51,0.1
+ORD00432,2025-07-05,Standing Desk,Furniture,South,Consumer,4,350,249.05,0
+ORD00433,2025-07-05,Standing Desk,Furniture,Central,Small Business,3,350,241.39,0
+ORD00434,2025-07-05,Bookshelf,Furniture,East,Consumer,1,120,82.55,0.1
+ORD00435,2025-07-05,Desk Organizer,Office Supplies,West,Small Business,5,25,11.63,0.3
+ORD00436,2025-07-05,Wireless Mouse,Technology,West,Small Business,2,30,13.17,0.1
+ORD00437,2025-07-06,Standing Desk,Furniture,West,Corporate,1,350,247.1,0.05
+ORD00438,2025-07-06,Pen Set,Office Supplies,West,Small Business,7,12,3.78,0.05
+ORD00439,2025-07-06,Keyboard,Technology,East,Corporate,6,45,22.19,0
+ORD00440,2025-07-08,Office Chair,Furniture,Central,Small Business,4,150,94.98,0.05
+ORD00441,2025-07-08,Monitor,Technology,East,Small Business,4,240,174.37,0.05
+ORD00442,2025-07-08,Notebook Pack,Office Supplies,West,Small Business,2,18,6.95,0
+ORD00443,2025-07-09,Standing Desk,Furniture,East,Consumer,2,350,240.92,0
+ORD00444,2025-07-09,Desk Organizer,Office Supplies,South,Consumer,2,25,10.76,0
+ORD00445,2025-07-10,Printer,Technology,South,Small Business,3,200,167.27,0
+ORD00446,2025-07-10,Keyboard,Technology,East,Small Business,6,45,21.52,0.1
+ORD00447,2025-07-10,Paper Ream,Office Supplies,West,Consumer,3,9,5.22,0
+ORD00448,2025-07-11,Desk Organizer,Office Supplies,West,Corporate,3,25,11.41,0
+ORD00449,2025-07-11,Filing Cabinet,Furniture,South,Consumer,4,180,144.1,0.1
+ORD00450,2025-07-11,Printer,Technology,West,Small Business,4,200,160.04,0
+ORD00451,2025-07-11,Bookshelf,Furniture,South,Corporate,1,120,82.31,0
+ORD00452,2025-07-12,Desk Organizer,Office Supplies,Central,Consumer,3,25,11.56,0
+ORD00453,2025-07-12,Pen Set,Office Supplies,South,Small Business,7,12,3.48,0.4
+ORD00454,2025-07-12,Desk Organizer,Office Supplies,South,Small Business,2,25,11.6,0.1
+ORD00455,2025-07-13,Standing Desk,Furniture,Central,Corporate,9,350,246.93,0
+ORD00456,2025-07-15,Bookshelf,Furniture,Central,Small Business,1,120,80.32,0
+ORD00457,2025-07-15,Standing Desk,Furniture,East,Consumer,3,350,252.91,0.05
+ORD00458,2025-07-15,Bookshelf,Furniture,East,Consumer,2,120,78.35,0
+ORD00459,2025-07-17,Wireless Mouse,Technology,West,Small Business,7,30,12.85,0.05
+ORD00460,2025-07-17,Bookshelf,Furniture,West,Consumer,3,120,78.56,0
+ORD00461,2025-07-18,Paper Ream,Office Supplies,East,Consumer,4,9,5.28,0
+ORD00462,2025-07-19,Monitor,Technology,West,Small Business,7,240,179.55,0.05
+ORD00463,2025-07-19,Notebook Pack,Office Supplies,East,Small Business,6,18,6.81,0
+ORD00464,2025-07-19,Paper Ream,Office Supplies,Central,Consumer,1,9,5.65,0.05
+ORD00465,2025-07-20,Filing Cabinet,Furniture,West,Small Business,3,180,143.07,0.15
+ORD00466,2025-07-20,Paper Ream,Office Supplies,South,Consumer,2,9,5.29,0.15
+ORD00467,2025-07-21,Desk Organizer,Office Supplies,East,Corporate,11,25,11.64,0.1
+ORD00468,2025-07-21,Paper Ream,Office Supplies,Central,Consumer,4,9,5.63,0
+ORD00469,2025-07-21,Bookshelf,Furniture,West,Small Business,6,120,80.88,0
+ORD00470,2025-07-21,Wireless Mouse,Technology,Central,Corporate,6,30,13.19,0
+ORD00471,2025-07-21,Filing Cabinet,Furniture,West,Consumer,1,180,142.79,0.15
+ORD00472,2025-07-22,Desk Organizer,Office Supplies,West,Consumer,4,25,10.93,0
+ORD00473,2025-07-23,Paper Ream,Office Supplies,Central,Consumer,4,9,5.59,0.1
+ORD00474,2025-07-23,Filing Cabinet,Furniture,Central,Corporate,6,180,133.78,0.3
+ORD00475,2025-07-24,Pen Set,Office Supplies,Central,Consumer,1,12,3.73,0
+ORD00476,2025-07-24,Office Chair,Furniture,West,Corporate,11,150,95.76,0.05
+ORD00477,2025-07-24,Desk Organizer,Office Supplies,South,Small Business,1,25,11.26,0.1
+ORD00478,2025-07-24,Monitor,Technology,West,Small Business,1,240,190.57,0.15
+ORD00479,2025-07-25,Pen Set,Office Supplies,South,Corporate,4,12,3.62,0.15
+ORD00480,2025-07-25,Bookshelf,Furniture,East,Consumer,2,120,84.24,0
+ORD00481,2025-07-25,Pen Set,Office Supplies,East,Corporate,5,12,3.78,0
+ORD00482,2025-07-26,Paper Ream,Office Supplies,South,Consumer,1,9,5.17,0.3
+ORD00483,2025-07-26,Bookshelf,Furniture,West,Small Business,5,120,85.63,0
+ORD00484,2025-07-26,Notebook Pack,Office Supplies,Central,Corporate,12,18,6.87,0.05
+ORD00485,2025-07-27,Notebook Pack,Office Supplies,West,Corporate,4,18,6.72,0.05
+ORD00486,2025-07-27,Wireless Mouse,Technology,South,Consumer,1,30,12.12,0.1
+ORD00487,2025-07-28,Bookshelf,Furniture,South,Consumer,3,120,80.46,0
+ORD00488,2025-07-28,Filing Cabinet,Furniture,West,Small Business,1,180,144.72,0
+ORD00489,2025-07-28,Bookshelf,Furniture,Central,Corporate,6,120,80.57,0.3
+ORD00490,2025-07-29,Paper Ream,Office Supplies,West,Consumer,1,9,5.2,0
+ORD00491,2025-07-29,Monitor,Technology,Central,Consumer,1,240,181.11,0
+ORD00492,2025-07-29,Standing Desk,Furniture,East,Consumer,4,350,241.72,0.15
+ORD00493,2025-07-30,Filing Cabinet,Furniture,East,Consumer,2,180,146.86,0
+ORD00494,2025-07-30,Bookshelf,Furniture,Central,Consumer,2,120,81.76,0.2
+ORD00495,2025-07-30,Filing Cabinet,Furniture,East,Corporate,7,180,143.7,0.1
+ORD00496,2025-07-30,Office Chair,Furniture,West,Consumer,2,150,95.95,0.15
+ORD00497,2025-07-30,Pen Set,Office Supplies,East,Small Business,4,12,3.69,0
+ORD00498,2025-07-31,Bookshelf,Furniture,West,Consumer,4,120,83.14,0
+ORD00499,2025-07-31,Keyboard,Technology,West,Consumer,2,45,22.18,0
+ORD00500,2025-07-31,Pen Set,Office Supplies,West,Corporate,10,12,3.64,0
+ORD00501,2025-08-01,Bookshelf,Furniture,East,Small Business,3,120,78.34,0.05
+ORD00502,2025-08-02,Monitor,Technology,Central,Small Business,4,240,180.93,0.05
+ORD00503,2025-08-02,Notebook Pack,Office Supplies,Central,Small Business,6,18,7.07,0
+ORD00504,2025-08-02,Bookshelf,Furniture,East,Small Business,7,120,80.91,0
+ORD00505,2025-08-02,Printer,Technology,East,Consumer,1,200,164.88,0
+ORD00506,2025-08-03,Bookshelf,Furniture,Central,Small Business,6,120,81.94,0
+ORD00507,2025-08-03,Monitor,Technology,East,Consumer,3,240,184.96,0.4
+ORD00508,2025-08-04,Paper Ream,Office Supplies,Central,Small Business,1,9,5.47,0
+ORD00509,2025-08-04,Standing Desk,Furniture,South,Small Business,7,350,252.9,0
+ORD00510,2025-08-05,Notebook Pack,Office Supplies,Central,Consumer,2,18,6.9,0.1
+ORD00511,2025-08-05,Wireless Mouse,Technology,East,Consumer,2,30,12.71,0.15
+ORD00512,2025-08-05,Notebook Pack,Office Supplies,East,Small Business,4,18,6.57,0.2
+ORD00513,2025-08-06,Monitor,Technology,East,Small Business,3,240,180.02,0.2
+ORD00514,2025-08-06,Keyboard,Technology,South,Small Business,1,45,21.61,0
+ORD00515,2025-08-06,Filing Cabinet,Furniture,West,Small Business,7,180,141.12,0.05
+ORD00516,2025-08-06,Bookshelf,Furniture,South,Corporate,5,120,78.56,0
+ORD00517,2025-08-06,Standing Desk,Furniture,West,Small Business,3,350,239.52,0.1
+ORD00518,2025-08-07,Office Chair,Furniture,East,Consumer,4,150,99.66,0.1
+ORD00519,2025-08-07,Wireless Mouse,Technology,South,Small Business,4,30,12.63,0
+ORD00520,2025-08-09,Printer,Technology,East,Consumer,2,200,169.08,0.2
+ORD00521,2025-08-10,Desk Organizer,Office Supplies,West,Small Business,2,25,11.13,0
+ORD00522,2025-08-10,Printer,Technology,West,Consumer,1,200,173.95,0.05
+ORD00523,2025-08-10,Bookshelf,Furniture,Central,Small Business,3,120,80.82,0.2
+ORD00524,2025-08-12,Notebook Pack,Office Supplies,South,Consumer,1,18,6.7,0.05
+ORD00525,2025-08-12,Office Chair,Furniture,East,Consumer,1,150,100,0.2
+ORD00526,2025-08-12,Monitor,Technology,South,Corporate,12,240,176.21,0.05
+ORD00527,2025-08-12,Pen Set,Office Supplies,East,Small Business,7,12,3.46,0
+ORD00528,2025-08-13,Bookshelf,Furniture,South,Small Business,3,120,78.35,0.05
+ORD00529,2025-08-13,Pen Set,Office Supplies,East,Consumer,4,12,3.67,0.3
+ORD00530,2025-08-13,Monitor,Technology,West,Small Business,6,240,185.7,0.3
+ORD00531,2025-08-13,Office Chair,Furniture,Central,Consumer,1,150,97.25,0.05
+ORD00532,2025-08-13,Wireless Mouse,Technology,South,Consumer,4,30,12.79,0.15
+ORD00533,2025-08-14,Standing Desk,Furniture,East,Consumer,4,350,251.43,0.05
+ORD00534,2025-08-15,Notebook Pack,Office Supplies,West,Consumer,1,18,6.92,0.15
+ORD00535,2025-08-15,Filing Cabinet,Furniture,East,Corporate,6,180,139.23,0
+ORD00536,2025-08-15,Filing Cabinet,Furniture,South,Consumer,1,180,143.27,0.3
+ORD00537,2025-08-15,Wireless Mouse,Technology,South,Corporate,3,30,12.87,0
+ORD00538,2025-08-15,Pen Set,Office Supplies,West,Small Business,2,12,3.7,0.1
+ORD00539,2025-08-16,Keyboard,Technology,Central,Consumer,3,45,20.56,0.2
+ORD00540,2025-08-16,Filing Cabinet,Furniture,Central,Small Business,6,180,137.59,0.05
+ORD00541,2025-08-16,Pen Set,Office Supplies,Central,Small Business,2,12,3.73,0.05
+ORD00542,2025-08-17,Paper Ream,Office Supplies,East,Small Business,1,9,5.65,0.2
+ORD00543,2025-08-17,Pen Set,Office Supplies,West,Consumer,3,12,3.63,0.1
+ORD00544,2025-08-17,Keyboard,Technology,West,Consumer,3,45,22.3,0
+ORD00545,2025-08-17,Monitor,Technology,South,Small Business,5,240,181.19,0.05
+ORD00546,2025-08-19,Bookshelf,Furniture,Central,Small Business,1,120,84.66,0
+ORD00547,2025-08-19,Desk Organizer,Office Supplies,East,Small Business,7,25,11.5,0
+ORD00548,2025-08-19,Monitor,Technology,East,Small Business,7,240,187.6,0
+ORD00549,2025-08-19,Paper Ream,Office Supplies,East,Consumer,4,9,5.18,0
+ORD00550,2025-08-20,Bookshelf,Furniture,East,Consumer,4,120,84.78,0
+ORD00551,2025-08-21,Printer,Technology,Central,Consumer,2,200,166.89,0.1
+ORD00552,2025-08-21,Keyboard,Technology,South,Consumer,4,45,21.54,0.1
+ORD00553,2025-08-21,Paper Ream,Office Supplies,East,Corporate,3,9,5.13,0.1
+ORD00554,2025-08-21,Notebook Pack,Office Supplies,East,Small Business,6,18,6.97,0
+ORD00555,2025-08-21,Office Chair,Furniture,East,Consumer,2,150,101.35,0
+ORD00556,2025-08-22,Bookshelf,Furniture,East,Consumer,4,120,84.23,0
+ORD00557,2025-08-22,Desk Organizer,Office Supplies,East,Consumer,4,25,11.62,0
+ORD00558,2025-08-23,Monitor,Technology,Central,Corporate,12,240,181.01,0.1
+ORD00559,2025-08-23,Paper Ream,Office Supplies,South,Small Business,6,9,5.36,0.1
+ORD00560,2025-08-24,Keyboard,Technology,East,Corporate,12,45,20.58,0
+ORD00561,2025-08-24,Paper Ream,Office Supplies,East,Consumer,3,9,5.61,0.05
+ORD00562,2025-08-24,Keyboard,Technology,Central,Consumer,1,45,22.16,0
+ORD00563,2025-08-24,Desk Organizer,Office Supplies,South,Small Business,5,25,10.94,0.1
+ORD00564,2025-08-25,Printer,Technology,Central,Small Business,6,200,167.18,0
+ORD00565,2025-08-26,Standing Desk,Furniture,West,Consumer,4,350,261.95,0.05
+ORD00566,2025-08-26,Office Chair,Furniture,West,Corporate,10,150,98.67,0.1
+ORD00567,2025-08-26,Filing Cabinet,Furniture,South,Corporate,10,180,137.87,0.05
+ORD00568,2025-08-26,Bookshelf,Furniture,East,Small Business,1,120,82.75,0.05
+ORD00569,2025-08-26,Desk Organizer,Office Supplies,Central,Consumer,1,25,11.37,0.05
+ORD00570,2025-08-27,Monitor,Technology,East,Consumer,2,240,188.83,0.2
+ORD00571,2025-08-27,Pen Set,Office Supplies,East,Small Business,6,12,3.47,0.4
+ORD00572,2025-08-28,Monitor,Technology,West,Corporate,12,240,191.02,0.1
+ORD00573,2025-08-28,Keyboard,Technology,East,Consumer,1,45,22.39,0.05
+ORD00574,2025-08-28,Wireless Mouse,Technology,West,Consumer,2,30,12.22,0
+ORD00575,2025-08-29,Monitor,Technology,East,Small Business,6,240,176.01,0
+ORD00576,2025-08-29,Paper Ream,Office Supplies,South,Consumer,4,9,5.23,0.05
+ORD00577,2025-08-29,Notebook Pack,Office Supplies,East,Small Business,3,18,6.81,0.1
+ORD00578,2025-08-30,Bookshelf,Furniture,South,Consumer,1,120,82.06,0
+ORD00579,2025-08-30,Paper Ream,Office Supplies,East,Consumer,4,9,5.54,0.15
+ORD00580,2025-08-30,Monitor,Technology,Central,Small Business,2,240,189.69,0.3
+ORD00581,2025-08-30,Notebook Pack,Office Supplies,West,Consumer,4,18,6.5,0
+ORD00582,2025-08-31,Office Chair,Furniture,East,Consumer,1,150,94.28,0
+ORD00583,2025-08-31,Wireless Mouse,Technology,East,Consumer,1,30,13.21,0
+ORD00584,2025-08-31,Standing Desk,Furniture,South,Consumer,2,350,259.77,0.4
+ORD00585,2025-08-31,Office Chair,Furniture,East,Small Business,2,150,98.94,0.2
+ORD00586,2025-09-01,Monitor,Technology,South,Consumer,1,240,175.93,0
+ORD00587,2025-09-01,Paper Ream,Office Supplies,East,Consumer,1,9,5.44,0.15
+ORD00588,2025-09-01,Notebook Pack,Office Supplies,East,Consumer,2,18,7.05,0.2
+ORD00589,2025-09-02,Paper Ream,Office Supplies,East,Consumer,1,9,5.56,0.15
+ORD00590,2025-09-04,Pen Set,Office Supplies,East,Corporate,7,12,3.64,0.1
+ORD00591,2025-09-04,Keyboard,Technology,West,Small Business,4,45,22.08,0
+ORD00592,2025-09-04,Office Chair,Furniture,West,Small Business,1,150,98.44,0
+ORD00593,2025-09-05,Standing Desk,Furniture,East,Consumer,4,350,254.79,0
+ORD00594,2025-09-05,Monitor,Technology,Central,Corporate,12,240,190.76,0.1
+ORD00595,2025-09-05,Paper Ream,Office Supplies,West,Corporate,11,9,5.6,0.15
+ORD00596,2025-09-05,Standing Desk,Furniture,South,Corporate,9,350,257.89,0
+ORD00597,2025-09-05,Pen Set,Office Supplies,Central,Small Business,4,12,3.62,0
+ORD00598,2025-09-06,Pen Set,Office Supplies,East,Small Business,5,12,3.73,0.2
+ORD00599,2025-09-06,Desk Organizer,Office Supplies,South,Consumer,1,25,10.88,0
+ORD00600,2025-09-06,Filing Cabinet,Furniture,East,Small Business,2,180,133.93,0.1
+ORD00601,2025-09-07,Filing Cabinet,Furniture,East,Corporate,8,180,136.06,0.15
+ORD00602,2025-09-07,Notebook Pack,Office Supplies,West,Small Business,6,18,6.64,0.1
+ORD00603,2025-09-07,Notebook Pack,Office Supplies,West,Consumer,3,18,7.12,0
+ORD00604,2025-09-07,Monitor,Technology,Central,Consumer,4,240,179.79,0.3
+ORD00605,2025-09-08,Bookshelf,Furniture,East,Small Business,3,120,77.93,0.4
+ORD00606,2025-09-08,Keyboard,Technology,West,Consumer,4,45,22.18,0
+ORD00607,2025-09-08,Pen Set,Office Supplies,Central,Consumer,4,12,3.68,0.15
+ORD00608,2025-09-09,Notebook Pack,Office Supplies,East,Consumer,3,18,6.9,0
+ORD00609,2025-09-09,Pen Set,Office Supplies,East,Consumer,4,12,3.47,0.1
+ORD00610,2025-09-09,Filing Cabinet,Furniture,Central,Consumer,3,180,142.77,0
+ORD00611,2025-09-09,Bookshelf,Furniture,East,Small Business,2,120,78.8,0
+ORD00612,2025-09-10,Bookshelf,Furniture,South,Small Business,2,120,77.78,0.15
+ORD00613,2025-09-10,Filing Cabinet,Furniture,Central,Consumer,2,180,142.06,0.3
+ORD00614,2025-09-10,Standing Desk,Furniture,West,Small Business,7,350,254.69,0.1
+ORD00615,2025-09-11,Notebook Pack,Office Supplies,West,Small Business,5,18,6.62,0
+ORD00616,2025-09-11,Office Chair,Furniture,East,Small Business,5,150,93.56,0
+ORD00617,2025-09-11,Wireless Mouse,Technology,West,Consumer,1,30,12.12,0.05
+ORD00618,2025-09-11,Keyboard,Technology,South,Consumer,2,45,22.06,0.15
+ORD00619,2025-09-12,Office Chair,Furniture,South,Corporate,9,150,96.97,0.15
+ORD00620,2025-09-13,Monitor,Technology,Central,Consumer,1,240,183.01,0.05
+ORD00621,2025-09-13,Monitor,Technology,West,Small Business,6,240,184,0.05
+ORD00622,2025-09-14,Monitor,Technology,West,Consumer,3,240,183.27,0.2
+ORD00623,2025-09-14,Pen Set,Office Supplies,West,Small Business,6,12,3.72,0.15
+ORD00624,2025-09-15,Pen Set,Office Supplies,West,Corporate,6,12,3.6,0
+ORD00625,2025-09-15,Bookshelf,Furniture,Central,Consumer,1,120,80.67,0
+ORD00626,2025-09-16,Paper Ream,Office Supplies,Central,Small Business,1,9,5.16,0.05
+ORD00627,2025-09-16,Printer,Technology,West,Small Business,5,200,170.45,0
+ORD00628,2025-09-16,Notebook Pack,Office Supplies,South,Consumer,4,18,6.53,0.2
+ORD00629,2025-09-17,Wireless Mouse,Technology,South,Small Business,7,30,12.19,0.3
+ORD00630,2025-09-17,Paper Ream,Office Supplies,West,Small Business,6,9,5.58,0.15
+ORD00631,2025-09-18,Pen Set,Office Supplies,Central,Corporate,4,12,3.58,0.1
+ORD00632,2025-09-18,Standing Desk,Furniture,Central,Consumer,4,350,244.97,0
+ORD00633,2025-09-18,Paper Ream,Office Supplies,West,Consumer,4,9,5.64,0.1
+ORD00634,2025-09-19,Bookshelf,Furniture,Central,Small Business,7,120,79.63,0
+ORD00635,2025-09-19,Printer,Technology,Central,Small Business,2,200,166.5,0.1
+ORD00636,2025-09-20,Keyboard,Technology,West,Consumer,2,45,22.6,0
+ORD00637,2025-09-20,Pen Set,Office Supplies,East,Corporate,11,12,3.7,0
+ORD00638,2025-09-20,Filing Cabinet,Furniture,South,Small Business,2,180,142.96,0.3
+ORD00639,2025-09-20,Notebook Pack,Office Supplies,East,Consumer,3,18,6.62,0
+ORD00640,2025-09-20,Paper Ream,Office Supplies,Central,Consumer,1,9,5.3,0.2
+ORD00641,2025-09-20,Keyboard,Technology,West,Small Business,1,45,20.82,0.05
+ORD00642,2025-09-20,Pen Set,Office Supplies,East,Small Business,5,12,3.7,0
+ORD00643,2025-09-21,Filing Cabinet,Furniture,East,Consumer,3,180,138.63,0.05
+ORD00644,2025-09-21,Keyboard,Technology,Central,Corporate,4,45,21.87,0
+ORD00645,2025-09-21,Printer,Technology,South,Corporate,1,200,165.41,0
+ORD00646,2025-09-21,Office Chair,Furniture,South,Small Business,4,150,96.24,0.05
+ORD00647,2025-09-22,Notebook Pack,Office Supplies,Central,Consumer,2,18,6.87,0.2
+ORD00648,2025-09-23,Pen Set,Office Supplies,West,Small Business,4,12,3.69,0
+ORD00649,2025-09-23,Notebook Pack,Office Supplies,West,Small Business,1,18,6.88,0.15
+ORD00650,2025-09-23,Desk Organizer,Office Supplies,Central,Consumer,3,25,10.77,0
+ORD00651,2025-09-23,Printer,Technology,West,Small Business,5,200,169.12,0
+ORD00652,2025-09-24,Printer,Technology,East,Corporate,9,200,172.07,0.2
+ORD00653,2025-09-24,Wireless Mouse,Technology,East,Small Business,7,30,12.56,0
+ORD00654,2025-09-24,Pen Set,Office Supplies,Central,Corporate,12,12,3.55,0.05
+ORD00655,2025-09-24,Pen Set,Office Supplies,Central,Corporate,11,12,3.76,0.15
+ORD00656,2025-09-25,Desk Organizer,Office Supplies,East,Small Business,7,25,11.62,0.2
+ORD00657,2025-09-25,Paper Ream,Office Supplies,Central,Small Business,5,9,5.46,0.05
+ORD00658,2025-09-25,Office Chair,Furniture,Central,Small Business,6,150,99.46,0.1
+ORD00659,2025-09-25,Pen Set,Office Supplies,East,Small Business,2,12,3.6,0.1
+ORD00660,2025-09-26,Paper Ream,Office Supplies,East,Consumer,2,9,5.5,0.4
+ORD00661,2025-09-26,Notebook Pack,Office Supplies,West,Small Business,7,18,6.97,0.1
+ORD00662,2025-09-26,Office Chair,Furniture,South,Consumer,3,150,93.15,0.3
+ORD00663,2025-09-26,Monitor,Technology,Central,Corporate,12,240,190.74,0.1
+ORD00664,2025-09-26,Office Chair,Furniture,Central,Consumer,4,150,96.34,0.15
+ORD00665,2025-09-27,Filing Cabinet,Furniture,West,Consumer,2,180,139.62,0
+ORD00666,2025-09-27,Pen Set,Office Supplies,Central,Corporate,12,12,3.57,0.1
+ORD00667,2025-09-28,Bookshelf,Furniture,Central,Small Business,5,120,82.69,0
+ORD00668,2025-09-28,Filing Cabinet,Furniture,West,Corporate,8,180,145.04,0
+ORD00669,2025-09-28,Monitor,Technology,West,Consumer,1,240,189.27,0
+ORD00670,2025-09-30,Keyboard,Technology,East,Consumer,1,45,21.49,0.15
+ORD00671,2025-09-30,Monitor,Technology,East,Small Business,2,240,190.22,0
+ORD00672,2025-09-30,Pen Set,Office Supplies,South,Corporate,9,12,3.62,0.05
+ORD00673,2025-09-30,Standing Desk,Furniture,West,Consumer,2,350,248.29,0.05
+ORD00674,2025-09-30,Pen Set,Office Supplies,East,Consumer,2,12,3.57,0.05
+ORD00675,2025-09-30,Standing Desk,Furniture,East,Small Business,5,350,260.23,0.1
+ORD00676,2025-10-03,Filing Cabinet,Furniture,West,Small Business,1,180,143.57,0.05
+ORD00677,2025-10-03,Bookshelf,Furniture,East,Small Business,5,120,79.09,0.05
+ORD00678,2025-10-03,Paper Ream,Office Supplies,West,Corporate,8,9,5.16,0.15
+ORD00679,2025-10-03,Pen Set,Office Supplies,East,Consumer,3,12,3.5,0
+ORD00680,2025-10-04,Standing Desk,Furniture,West,Consumer,3,350,259.89,0.2
+ORD00681,2025-10-04,Monitor,Technology,Central,Corporate,12,240,187.35,0
+ORD00682,2025-10-05,Paper Ream,Office Supplies,East,Consumer,4,9,5.37,0.3
+ORD00683,2025-10-05,Office Chair,Furniture,West,Small Business,3,150,97.84,0
+ORD00684,2025-10-05,Paper Ream,Office Supplies,East,Consumer,1,9,5.26,0
+ORD00685,2025-10-06,Notebook Pack,Office Supplies,West,Consumer,1,18,6.95,0.05
+ORD00686,2025-10-06,Paper Ream,Office Supplies,East,Small Business,1,9,5.32,0
+ORD00687,2025-10-06,Bookshelf,Furniture,South,Small Business,5,120,82.67,0.1
+ORD00688,2025-10-06,Monitor,Technology,West,Corporate,3,240,184.9,0
+ORD00689,2025-10-06,Standing Desk,Furniture,East,Corporate,1,350,251.63,0
+ORD00690,2025-10-07,Bookshelf,Furniture,Central,Consumer,3,120,83.92,0
+ORD00691,2025-10-07,Keyboard,Technology,South,Corporate,10,45,21.92,0.1
+ORD00692,2025-10-07,Printer,Technology,East,Corporate,8,200,161.18,0.15
+ORD00693,2025-10-08,Desk Organizer,Office Supplies,East,Consumer,2,25,11.63,0.2
+ORD00694,2025-10-08,Wireless Mouse,Technology,South,Consumer,2,30,12.66,0.05
+ORD00695,2025-10-09,Printer,Technology,South,Small Business,2,200,161.39,0.05
+ORD00696,2025-10-09,Wireless Mouse,Technology,West,Consumer,1,30,12.28,0.05
+ORD00697,2025-10-10,Keyboard,Technology,East,Consumer,3,45,21.37,0.1
+ORD00698,2025-10-10,Standing Desk,Furniture,Central,Corporate,4,350,246.56,0
+ORD00699,2025-10-10,Notebook Pack,Office Supplies,East,Corporate,5,18,6.8,0
+ORD00700,2025-10-11,Bookshelf,Furniture,South,Consumer,4,120,81.17,0.15
+ORD00701,2025-10-11,Keyboard,Technology,South,Small Business,7,45,22.17,0.05
+ORD00702,2025-10-12,Printer,Technology,East,Consumer,4,200,173.96,0.15
+ORD00703,2025-10-12,Printer,Technology,South,Consumer,4,200,172.64,0.2
+ORD00704,2025-10-12,Filing Cabinet,Furniture,West,Consumer,3,180,137.07,0
+ORD00705,2025-10-12,Monitor,Technology,West,Small Business,2,240,177.12,0.05
+ORD00706,2025-10-12,Filing Cabinet,Furniture,Central,Consumer,4,180,137.64,0
+ORD00707,2025-10-12,Printer,Technology,East,Consumer,4,200,170.32,0
+ORD00708,2025-10-13,Bookshelf,Furniture,East,Consumer,3,120,80.83,0.1
+ORD00709,2025-10-13,Pen Set,Office Supplies,East,Consumer,4,12,3.69,0.15
+ORD00710,2025-10-13,Desk Organizer,Office Supplies,Central,Consumer,3,25,11.33,0.05
+ORD00711,2025-10-13,Keyboard,Technology,West,Small Business,7,45,20.69,0.2
+ORD00712,2025-10-13,Desk Organizer,Office Supplies,Central,Consumer,1,25,11.74,0
+ORD00713,2025-10-13,Printer,Technology,West,Consumer,1,200,169.98,0
+ORD00714,2025-10-13,Standing Desk,Furniture,East,Small Business,6,350,255.12,0.05
+ORD00715,2025-10-14,Notebook Pack,Office Supplies,East,Consumer,3,18,6.86,0
+ORD00716,2025-10-15,Printer,Technology,South,Small Business,3,200,159.8,0.1
+ORD00717,2025-10-15,Desk Organizer,Office Supplies,East,Corporate,7,25,10.73,0
+ORD00718,2025-10-16,Desk Organizer,Office Supplies,South,Corporate,5,25,11.17,0
+ORD00719,2025-10-16,Pen Set,Office Supplies,West,Small Business,2,12,3.47,0
+ORD00720,2025-10-16,Office Chair,Furniture,East,Consumer,2,150,95.66,0
+ORD00721,2025-10-17,Desk Organizer,Office Supplies,East,Corporate,2,25,11.41,0
+ORD00722,2025-10-18,Paper Ream,Office Supplies,West,Consumer,4,9,5.43,0
+ORD00723,2025-10-18,Paper Ream,Office Supplies,Central,Consumer,2,9,5.32,0.05
+ORD00724,2025-10-18,Monitor,Technology,Central,Small Business,3,240,189.37,0
+ORD00725,2025-10-18,Notebook Pack,Office Supplies,East,Small Business,4,18,6.86,0
+ORD00726,2025-10-18,Filing Cabinet,Furniture,West,Corporate,12,180,143.86,0.1
+ORD00727,2025-10-19,Notebook Pack,Office Supplies,East,Consumer,2,18,7.04,0
+ORD00728,2025-10-19,Printer,Technology,West,Small Business,1,200,171.2,0.05
+ORD00729,2025-10-19,Monitor,Technology,West,Small Business,2,240,179.18,0.05
+ORD00730,2025-10-20,Standing Desk,Furniture,East,Consumer,1,350,262.85,0.1
+ORD00731,2025-10-20,Filing Cabinet,Furniture,East,Consumer,3,180,147.38,0.3
+ORD00732,2025-10-20,Wireless Mouse,Technology,Central,Corporate,6,30,12.27,0.15
+ORD00733,2025-10-20,Pen Set,Office Supplies,East,Consumer,1,12,3.75,0
+ORD00734,2025-10-21,Standing Desk,Furniture,West,Consumer,2,350,255.54,0.2
+ORD00735,2025-10-21,Paper Ream,Office Supplies,South,Consumer,3,9,5.39,0.2
+ORD00736,2025-10-22,Keyboard,Technology,Central,Small Business,6,45,21.36,0
+ORD00737,2025-10-22,Wireless Mouse,Technology,Central,Corporate,12,30,12.37,0
+ORD00738,2025-10-22,Pen Set,Office Supplies,East,Corporate,4,12,3.49,0.05
+ORD00739,2025-10-22,Paper Ream,Office Supplies,South,Small Business,3,9,5.22,0.3
+ORD00740,2025-10-22,Filing Cabinet,Furniture,West,Consumer,2,180,136.69,0.4
+ORD00741,2025-10-22,Bookshelf,Furniture,West,Small Business,2,120,82.42,0.05
+ORD00742,2025-10-23,Wireless Mouse,Technology,Central,Small Business,5,30,12.94,0
+ORD00743,2025-10-23,Office Chair,Furniture,Central,Small Business,5,150,100.14,0
+ORD00744,2025-10-23,Paper Ream,Office Supplies,West,Small Business,6,9,5.19,0.05
+ORD00745,2025-10-24,Wireless Mouse,Technology,East,Consumer,1,30,12.12,0.1
+ORD00746,2025-10-24,Pen Set,Office Supplies,Central,Corporate,5,12,3.62,0.15
+ORD00747,2025-10-24,Wireless Mouse,Technology,East,Corporate,3,30,11.98,0.05
+ORD00748,2025-10-24,Printer,Technology,Central,Corporate,10,200,167.16,0.05
+ORD00749,2025-10-24,Bookshelf,Furniture,East,Consumer,2,120,85.19,0.1
+ORD00750,2025-10-24,Wireless Mouse,Technology,West,Consumer,4,30,12.25,0.15
+ORD00751,2025-10-25,Standing Desk,Furniture,West,Consumer,3,350,258.12,0
+ORD00752,2025-10-26,Office Chair,Furniture,West,Consumer,3,150,93.66,0.05
+ORD00753,2025-10-26,Paper Ream,Office Supplies,East,Consumer,2,9,5.4,0
+ORD00754,2025-10-26,Keyboard,Technology,West,Small Business,3,45,21.41,0
+ORD00755,2025-10-26,Printer,Technology,South,Small Business,1,200,173.77,0
+ORD00756,2025-10-26,Notebook Pack,Office Supplies,Central,Small Business,4,18,6.51,0.15
+ORD00757,2025-10-27,Keyboard,Technology,West,Consumer,3,45,20.72,0
+ORD00758,2025-10-27,Office Chair,Furniture,East,Consumer,1,150,95.89,0.05
+ORD00759,2025-10-27,Desk Organizer,Office Supplies,East,Corporate,7,25,11.46,0
+ORD00760,2025-10-27,Notebook Pack,Office Supplies,Central,Corporate,6,18,6.54,0.15
+ORD00761,2025-10-28,Wireless Mouse,Technology,Central,Consumer,4,30,12.74,0.1
+ORD00762,2025-10-28,Printer,Technology,Central,Corporate,1,200,163.93,0.05
+ORD00763,2025-10-28,Wireless Mouse,Technology,West,Corporate,11,30,12.88,0.05
+ORD00764,2025-10-28,Keyboard,Technology,South,Small Business,5,45,21.7,0.3
+ORD00765,2025-10-29,Keyboard,Technology,West,Corporate,10,45,21.58,0.2
+ORD00766,2025-10-29,Wireless Mouse,Technology,West,Consumer,1,30,12.52,0.05
+ORD00767,2025-10-30,Keyboard,Technology,East,Consumer,1,45,21.95,0.1
+ORD00768,2025-10-30,Printer,Technology,East,Corporate,9,200,168.52,0
+ORD00769,2025-10-31,Notebook Pack,Office Supplies,South,Consumer,3,18,7.16,0
+ORD00770,2025-10-31,Pen Set,Office Supplies,East,Corporate,1,12,3.55,0.2
+ORD00771,2025-11-01,Monitor,Technology,East,Consumer,1,240,179.67,0.05
+ORD00772,2025-11-02,Pen Set,Office Supplies,South,Consumer,4,12,3.47,0.1
+ORD00773,2025-11-02,Office Chair,Furniture,Central,Small Business,3,150,95.74,0.1
+ORD00774,2025-11-02,Wireless Mouse,Technology,Central,Small Business,3,30,12.33,0.05
+ORD00775,2025-11-02,Printer,Technology,East,Consumer,4,200,159.85,0.2
+ORD00776,2025-11-02,Paper Ream,Office Supplies,West,Consumer,3,9,5.18,0.05
+ORD00777,2025-11-02,Notebook Pack,Office Supplies,East,Consumer,1,18,7.11,0.05
+ORD00778,2025-11-03,Paper Ream,Office Supplies,East,Consumer,4,9,5.51,0.1
+ORD00779,2025-11-04,Desk Organizer,Office Supplies,Central,Corporate,10,25,10.73,0.15
+ORD00780,2025-11-04,Notebook Pack,Office Supplies,East,Small Business,6,18,6.72,0.25
+ORD00781,2025-11-04,Printer,Technology,West,Consumer,3,200,173.81,0.1
+ORD00782,2025-11-04,Pen Set,Office Supplies,Central,Consumer,4,12,3.76,0.05
+ORD00783,2025-11-05,Wireless Mouse,Technology,West,Small Business,7,30,12.67,0.05
+ORD00784,2025-11-05,Monitor,Technology,Central,Consumer,2,240,187.24,0.05
+ORD00785,2025-11-05,Monitor,Technology,Central,Small Business,5,240,188.19,0.05
+ORD00786,2025-11-06,Monitor,Technology,Central,Consumer,4,240,190.04,0.05
+ORD00787,2025-11-06,Desk Organizer,Office Supplies,Central,Small Business,4,25,10.74,0.15
+ORD00788,2025-11-06,Desk Organizer,Office Supplies,Central,Small Business,5,25,11.01,0.05
+ORD00789,2025-11-06,Wireless Mouse,Technology,East,Consumer,4,30,12.4,0.1
+ORD00790,2025-11-07,Paper Ream,Office Supplies,West,Consumer,3,9,5.48,0.05
+ORD00791,2025-11-07,Bookshelf,Furniture,Central,Small Business,7,120,83.14,0.05
+ORD00792,2025-11-07,Pen Set,Office Supplies,South,Corporate,6,12,3.75,0.25
+ORD00793,2025-11-08,Pen Set,Office Supplies,East,Small Business,2,12,3.68,0.05
+ORD00794,2025-11-08,Office Chair,Furniture,South,Corporate,3,150,96.46,0.05
+ORD00795,2025-11-08,Monitor,Technology,West,Small Business,3,240,190.62,0.1
+ORD00796,2025-11-08,Paper Ream,Office Supplies,Central,Small Business,2,9,5.61,0.05
+ORD00797,2025-11-09,Keyboard,Technology,South,Consumer,3,45,21.38,0.05
+ORD00798,2025-11-09,Office Chair,Furniture,Central,Small Business,7,150,95.55,0.05
+ORD00799,2025-11-09,Filing Cabinet,Furniture,West,Consumer,3,180,142.8,0.2
+ORD00800,2025-11-10,Keyboard,Technology,Central,Consumer,2,45,22.63,0.4
+ORD00801,2025-11-10,Bookshelf,Furniture,Central,Consumer,3,120,85.36,0.2
+ORD00802,2025-11-10,Pen Set,Office Supplies,East,Small Business,6,12,3.68,0.25
+ORD00803,2025-11-10,Standing Desk,Furniture,West,Small Business,1,350,247.27,0.15
+ORD00804,2025-11-11,Filing Cabinet,Furniture,East,Small Business,6,180,134.64,0.35
+ORD00805,2025-11-11,Standing Desk,Furniture,West,Small Business,2,350,244.74,0.2
+ORD00806,2025-11-11,Office Chair,Furniture,East,Small Business,4,150,94.16,0.1
+ORD00807,2025-11-11,Wireless Mouse,Technology,South,Corporate,8,30,12.23,0.1
+ORD00808,2025-11-11,Printer,Technology,South,Small Business,7,200,163.75,0.1
+ORD00809,2025-11-11,Pen Set,Office Supplies,South,Consumer,3,12,3.65,0.15
+ORD00810,2025-11-11,Notebook Pack,Office Supplies,East,Small Business,5,18,6.64,0.1
+ORD00811,2025-11-12,Pen Set,Office Supplies,East,Small Business,1,12,3.59,0.15
+ORD00812,2025-11-12,Monitor,Technology,West,Corporate,3,240,182.33,0.15
+ORD00813,2025-11-12,Filing Cabinet,Furniture,West,Consumer,1,180,146.2,0.2
+ORD00814,2025-11-14,Filing Cabinet,Furniture,Central,Small Business,4,180,141.81,0.05
+ORD00815,2025-11-14,Desk Organizer,Office Supplies,Central,Small Business,5,25,11.3,0.2
+ORD00816,2025-11-14,Paper Ream,Office Supplies,West,Corporate,12,9,5.32,0.4
+ORD00817,2025-11-15,Pen Set,Office Supplies,West,Small Business,6,12,3.76,0.15
+ORD00818,2025-11-15,Monitor,Technology,Central,Consumer,1,240,181.87,0.05
+ORD00819,2025-11-15,Pen Set,Office Supplies,Central,Small Business,5,12,3.54,0.1
+ORD00820,2025-11-16,Wireless Mouse,Technology,East,Consumer,1,30,12.3,0.1
+ORD00821,2025-11-16,Notebook Pack,Office Supplies,West,Consumer,2,18,6.96,0.15
+ORD00822,2025-11-17,Paper Ream,Office Supplies,West,Corporate,12,9,5.3,0.05
+ORD00823,2025-11-17,Pen Set,Office Supplies,West,Consumer,4,12,3.68,0.15
+ORD00824,2025-11-17,Standing Desk,Furniture,Central,Small Business,4,350,260.88,0.25
+ORD00825,2025-11-18,Printer,Technology,West,Small Business,5,200,168.41,0.4
+ORD00826,2025-11-18,Office Chair,Furniture,West,Corporate,1,150,97.44,0.15
+ORD00827,2025-11-18,Office Chair,Furniture,West,Consumer,2,150,96.42,0.15
+ORD00828,2025-11-18,Filing Cabinet,Furniture,Central,Small Business,1,180,143.99,0.4
+ORD00829,2025-11-19,Wireless Mouse,Technology,South,Small Business,5,30,12.51,0.05
+ORD00830,2025-11-20,Standing Desk,Furniture,East,Consumer,3,350,254.83,0.15
+ORD00831,2025-11-20,Wireless Mouse,Technology,West,Small Business,1,30,12.89,0.05
+ORD00832,2025-11-20,Standing Desk,Furniture,Central,Small Business,7,350,247.65,0.2
+ORD00833,2025-11-21,Desk Organizer,Office Supplies,Central,Consumer,1,25,11.43,0.05
+ORD00834,2025-11-21,Notebook Pack,Office Supplies,South,Small Business,3,18,6.76,0.05
+ORD00835,2025-11-21,Desk Organizer,Office Supplies,West,Small Business,6,25,11.27,0.2
+ORD00836,2025-11-21,Standing Desk,Furniture,East,Small Business,3,350,257.22,0.05
+ORD00837,2025-11-21,Filing Cabinet,Furniture,South,Consumer,2,180,135.46,0.05
+ORD00838,2025-11-21,Filing Cabinet,Furniture,East,Consumer,1,180,136.29,0.2
+ORD00839,2025-11-21,Printer,Technology,South,Small Business,2,200,170.14,0.1
+ORD00840,2025-11-22,Bookshelf,Furniture,East,Consumer,2,120,82.19,0.1
+ORD00841,2025-11-22,Monitor,Technology,South,Consumer,2,240,174.49,0.2
+ORD00842,2025-11-22,Bookshelf,Furniture,South,Small Business,7,120,84.61,0.05
+ORD00843,2025-11-22,Standing Desk,Furniture,West,Consumer,3,350,256.83,0.15
+ORD00844,2025-11-22,Notebook Pack,Office Supplies,West,Consumer,3,18,6.99,0.05
+ORD00845,2025-11-22,Paper Ream,Office Supplies,Central,Small Business,2,9,5.29,0.1
+ORD00846,2025-11-22,Pen Set,Office Supplies,West,Consumer,3,12,3.71,0.05
+ORD00847,2025-11-23,Bookshelf,Furniture,Central,Corporate,9,120,80.89,0.05
+ORD00848,2025-11-23,Monitor,Technology,South,Consumer,3,240,189.38,0.2
+ORD00849,2025-11-24,Bookshelf,Furniture,West,Small Business,1,120,84.37,0.05
+ORD00850,2025-11-24,Paper Ream,Office Supplies,West,Consumer,3,9,5.59,0.1
+ORD00851,2025-11-24,Notebook Pack,Office Supplies,Central,Consumer,1,18,6.99,0.1
+ORD00852,2025-11-24,Filing Cabinet,Furniture,East,Small Business,6,180,140.21,0.15
+ORD00853,2025-11-25,Filing Cabinet,Furniture,East,Consumer,1,180,134.15,0.05
+ORD00854,2025-11-25,Desk Organizer,Office Supplies,East,Consumer,1,25,11.18,0.05
+ORD00855,2025-11-25,Printer,Technology,Central,Small Business,3,200,174.25,0.05
+ORD00856,2025-11-26,Filing Cabinet,Furniture,Central,Small Business,4,180,144.97,0.05
+ORD00857,2025-11-26,Paper Ream,Office Supplies,West,Corporate,6,9,5.21,0.05
+ORD00858,2025-11-26,Keyboard,Technology,East,Corporate,5,45,20.89,0.15
+ORD00859,2025-11-26,Printer,Technology,West,Consumer,4,200,164.81,0.05
+ORD00860,2025-11-26,Standing Desk,Furniture,West,Small Business,3,350,249.5,0.1
+ORD00861,2025-11-27,Filing Cabinet,Furniture,South,Consumer,3,180,140.56,0.35
+ORD00862,2025-11-27,Monitor,Technology,East,Consumer,4,240,181.31,0.15
+ORD00863,2025-11-27,Pen Set,Office Supplies,South,Corporate,5,12,3.67,0.05
+ORD00864,2025-11-27,Wireless Mouse,Technology,Central,Small Business,4,30,12.47,0.15
+ORD00865,2025-11-27,Desk Organizer,Office Supplies,West,Consumer,4,25,11.25,0.05
+ORD00866,2025-11-27,Notebook Pack,Office Supplies,South,Small Business,4,18,6.54,0.35
+ORD00867,2025-11-27,Paper Ream,Office Supplies,Central,Consumer,2,9,5.62,0.25
+ORD00868,2025-11-28,Wireless Mouse,Technology,West,Corporate,4,30,13.04,0.2
+ORD00869,2025-11-28,Paper Ream,Office Supplies,South,Small Business,1,9,5.6,0.05
+ORD00870,2025-11-29,Monitor,Technology,Central,Small Business,3,240,191.24,0.05
+ORD00871,2025-11-29,Monitor,Technology,Central,Small Business,4,240,188.14,0.25
+ORD00872,2025-11-29,Bookshelf,Furniture,Central,Small Business,4,120,80,0.35
+ORD00873,2025-11-29,Printer,Technology,West,Corporate,4,200,166.25,0.1
+ORD00874,2025-11-29,Printer,Technology,East,Small Business,6,200,174.43,0.25
+ORD00875,2025-11-29,Standing Desk,Furniture,Central,Consumer,4,350,258.51,0.2
+ORD00876,2025-11-29,Printer,Technology,West,Small Business,5,200,165.31,0.05
+ORD00877,2025-11-30,Pen Set,Office Supplies,West,Small Business,7,12,3.74,0.05
+ORD00878,2025-11-30,Notebook Pack,Office Supplies,South,Consumer,2,18,6.88,0.15
+ORD00879,2025-11-30,Desk Organizer,Office Supplies,South,Corporate,12,25,11.56,0.05
+ORD00880,2025-11-30,Standing Desk,Furniture,East,Small Business,6,350,257.5,0.2
+ORD00881,2025-12-01,Keyboard,Technology,East,Consumer,2,45,21.79,0.1
+ORD00882,2025-12-01,Desk Organizer,Office Supplies,East,Consumer,1,25,11.36,0.05
+ORD00883,2025-12-01,Keyboard,Technology,Central,Small Business,7,45,21.35,0.15
+ORD00884,2025-12-01,Bookshelf,Furniture,Central,Consumer,4,120,79.32,0.15
+ORD00885,2025-12-02,Office Chair,Furniture,West,Small Business,1,150,100.63,0.15
+ORD00886,2025-12-02,Bookshelf,Furniture,West,Corporate,3,120,84.43,0.05
+ORD00887,2025-12-03,Paper Ream,Office Supplies,West,Corporate,3,9,5.35,0.15
+ORD00888,2025-12-03,Desk Organizer,Office Supplies,Central,Consumer,2,25,11.65,0.1
+ORD00889,2025-12-03,Monitor,Technology,East,Small Business,6,240,191.43,0.1
+ORD00890,2025-12-03,Printer,Technology,Central,Consumer,1,200,163.81,0.15
+ORD00891,2025-12-03,Pen Set,Office Supplies,Central,Small Business,5,12,3.68,0.25
+ORD00892,2025-12-04,Office Chair,Furniture,South,Consumer,1,150,96.05,0.15
+ORD00893,2025-12-04,Paper Ream,Office Supplies,East,Consumer,2,9,5.65,0.15
+ORD00894,2025-12-04,Filing Cabinet,Furniture,Central,Consumer,2,180,145.59,0.2
+ORD00895,2025-12-04,Bookshelf,Furniture,South,Consumer,4,120,83.66,0.2
+ORD00896,2025-12-05,Pen Set,Office Supplies,East,Small Business,6,12,3.71,0.1
+ORD00897,2025-12-05,Pen Set,Office Supplies,East,Small Business,1,12,3.44,0.05
+ORD00898,2025-12-05,Office Chair,Furniture,South,Small Business,7,150,94.43,0.15
+ORD00899,2025-12-05,Notebook Pack,Office Supplies,West,Consumer,3,18,6.68,0.05
+ORD00900,2025-12-05,Desk Organizer,Office Supplies,Central,Small Business,2,25,10.73,0.05
+ORD00901,2025-12-06,Monitor,Technology,Central,Consumer,1,240,174.82,0.05
+ORD00902,2025-12-06,Bookshelf,Furniture,Central,Consumer,4,120,78.24,0.15
+ORD00903,2025-12-07,Desk Organizer,Office Supplies,East,Consumer,1,25,11.78,0.05
+ORD00904,2025-12-08,Filing Cabinet,Furniture,East,Corporate,8,180,144.51,0.1
+ORD00905,2025-12-08,Monitor,Technology,West,Consumer,2,240,182.95,0.05
+ORD00906,2025-12-08,Desk Organizer,Office Supplies,South,Small Business,1,25,10.7,0.15
+ORD00907,2025-12-08,Desk Organizer,Office Supplies,East,Small Business,3,25,10.99,0.1
+ORD00908,2025-12-08,Filing Cabinet,Furniture,East,Corporate,9,180,139.16,0.15
+ORD00909,2025-12-09,Monitor,Technology,East,Small Business,7,240,186.8,0.05
+ORD00910,2025-12-10,Office Chair,Furniture,South,Small Business,6,150,93.67,0.1
+ORD00911,2025-12-10,Standing Desk,Furniture,Central,Small Business,4,350,259.36,0.15
+ORD00912,2025-12-10,Standing Desk,Furniture,East,Corporate,2,350,246.35,0.05
+ORD00913,2025-12-10,Desk Organizer,Office Supplies,South,Corporate,3,25,11.78,0.2
+ORD00914,2025-12-11,Paper Ream,Office Supplies,Central,Consumer,2,9,5.14,0.05
+ORD00915,2025-12-11,Monitor,Technology,Central,Consumer,1,240,188.11,0.05
+ORD00916,2025-12-11,Paper Ream,Office Supplies,West,Consumer,2,9,5.44,0.05
+ORD00917,2025-12-12,Wireless Mouse,Technology,West,Small Business,2,30,12.73,0.05
+ORD00918,2025-12-12,Desk Organizer,Office Supplies,West,Consumer,3,25,11.81,0.05
+ORD00919,2025-12-12,Office Chair,Furniture,West,Corporate,1,150,96.19,0.05
+ORD00920,2025-12-12,Paper Ream,Office Supplies,West,Consumer,3,9,5.4,0.1
+ORD00921,2025-12-12,Keyboard,Technology,West,Consumer,2,45,22.05,0.05
+ORD00922,2025-12-12,Paper Ream,Office Supplies,West,Consumer,4,9,5.22,0.1
+ORD00923,2025-12-13,Paper Ream,Office Supplies,West,Consumer,4,9,5.49,0.1
+ORD00924,2025-12-13,Filing Cabinet,Furniture,South,Small Business,3,180,143.49,0.05
+ORD00925,2025-12-14,Printer,Technology,East,Small Business,2,200,161.38,0.15
+ORD00926,2025-12-14,Desk Organizer,Office Supplies,West,Small Business,2,25,11.7,0.2
+ORD00927,2025-12-14,Desk Organizer,Office Supplies,West,Consumer,3,25,11.38,0.15
+ORD00928,2025-12-14,Notebook Pack,Office Supplies,South,Small Business,4,18,6.51,0.2
+ORD00929,2025-12-15,Standing Desk,Furniture,East,Small Business,7,350,245.49,0.15
+ORD00930,2025-12-15,Monitor,Technology,East,Corporate,7,240,179.55,0.05
+ORD00931,2025-12-15,Monitor,Technology,West,Consumer,1,240,189.47,0.05
+ORD00932,2025-12-16,Office Chair,Furniture,West,Small Business,5,150,96.73,0.2
+ORD00933,2025-12-16,Notebook Pack,Office Supplies,East,Small Business,5,18,7.11,0.05
+ORD00934,2025-12-16,Wireless Mouse,Technology,South,Consumer,1,30,12.47,0.1
+ORD00935,2025-12-16,Keyboard,Technology,Central,Small Business,5,45,21.67,0.15
+ORD00936,2025-12-16,Bookshelf,Furniture,South,Consumer,1,120,79.98,0.2
+ORD00937,2025-12-17,Printer,Technology,West,Consumer,1,200,168.53,0.05
+ORD00938,2025-12-18,Standing Desk,Furniture,Central,Corporate,9,350,258.81,0.05
+ORD00939,2025-12-18,Bookshelf,Furniture,Central,Consumer,3,120,78.95,0.05
+ORD00940,2025-12-18,Keyboard,Technology,East,Corporate,9,45,22.04,0.05
+ORD00941,2025-12-19,Pen Set,Office Supplies,West,Corporate,8,12,3.46,0.15
+ORD00942,2025-12-19,Office Chair,Furniture,Central,Small Business,1,150,95.47,0.15
+ORD00943,2025-12-19,Wireless Mouse,Technology,Central,Corporate,3,30,12.85,0.25
+ORD00944,2025-12-19,Desk Organizer,Office Supplies,Central,Small Business,5,25,11.09,0.35
+ORD00945,2025-12-19,Wireless Mouse,Technology,South,Consumer,4,30,12.52,0.05
+ORD00946,2025-12-20,Paper Ream,Office Supplies,West,Small Business,1,9,5.42,0.25
+ORD00947,2025-12-20,Monitor,Technology,South,Consumer,2,240,174.45,0.25
+ORD00948,2025-12-20,Standing Desk,Furniture,East,Small Business,2,350,244.51,0.05
+ORD00949,2025-12-20,Notebook Pack,Office Supplies,West,Small Business,5,18,6.54,0.1
+ORD00950,2025-12-21,Paper Ream,Office Supplies,East,Consumer,1,9,5.61,0.05
+ORD00951,2025-12-21,Wireless Mouse,Technology,East,Consumer,2,30,12.9,0.05
+ORD00952,2025-12-21,Printer,Technology,East,Small Business,6,200,160.24,0.05
+ORD00953,2025-12-21,Desk Organizer,Office Supplies,West,Consumer,4,25,10.84,0.2
+ORD00954,2025-12-21,Printer,Technology,Central,Consumer,3,200,166.52,0.1
+ORD00955,2025-12-21,Monitor,Technology,Central,Small Business,5,240,183.82,0.25
+ORD00956,2025-12-21,Pen Set,Office Supplies,East,Consumer,1,12,3.7,0.15
+ORD00957,2025-12-21,Keyboard,Technology,East,Consumer,2,45,21,0.15
+ORD00958,2025-12-22,Paper Ream,Office Supplies,Central,Small Business,7,9,5.21,0.25
+ORD00959,2025-12-22,Keyboard,Technology,Central,Corporate,7,45,22.63,0.05
+ORD00960,2025-12-23,Pen Set,Office Supplies,West,Small Business,5,12,3.75,0.05
+ORD00961,2025-12-23,Filing Cabinet,Furniture,South,Small Business,1,180,141.87,0.05
+ORD00962,2025-12-23,Office Chair,Furniture,West,Consumer,4,150,99.91,0.25
+ORD00963,2025-12-23,Desk Organizer,Office Supplies,South,Consumer,1,25,11.7,0.2
+ORD00964,2025-12-23,Monitor,Technology,West,Small Business,5,240,175.78,0.2
+ORD00965,2025-12-24,Printer,Technology,South,Consumer,3,200,160.91,0.1
+ORD00966,2025-12-24,Pen Set,Office Supplies,East,Small Business,6,12,3.45,0.35
+ORD00967,2025-12-24,Printer,Technology,West,Consumer,1,200,159.66,0.1
+ORD00968,2025-12-24,Office Chair,Furniture,West,Consumer,1,150,94.69,0.1
+ORD00969,2025-12-24,Pen Set,Office Supplies,East,Consumer,2,12,3.43,0.1
+ORD00970,2025-12-24,Printer,Technology,South,Consumer,4,200,163.74,0.2
+ORD00971,2025-12-25,Printer,Technology,West,Small Business,5,200,171.08,0.05
+ORD00972,2025-12-25,Wireless Mouse,Technology,Central,Small Business,3,30,12.95,0.05
+ORD00973,2025-12-25,Keyboard,Technology,East,Small Business,3,45,20.9,0.15
+ORD00974,2025-12-25,Keyboard,Technology,East,Consumer,4,45,21.32,0.05
+ORD00975,2025-12-25,Printer,Technology,South,Corporate,10,200,173.03,0.15
+ORD00976,2025-12-26,Filing Cabinet,Furniture,West,Consumer,4,180,143.78,0.05
+ORD00977,2025-12-26,Keyboard,Technology,Central,Corporate,2,45,22.43,0.05
+ORD00978,2025-12-27,Printer,Technology,East,Small Business,3,200,162.19,0.25
+ORD00979,2025-12-27,Bookshelf,Furniture,Central,Corporate,8,120,80.89,0.2
+ORD00980,2025-12-27,Keyboard,Technology,East,Consumer,1,45,21.52,0.05
+ORD00981,2025-12-27,Paper Ream,Office Supplies,West,Small Business,7,9,5.67,0.1
+ORD00982,2025-12-27,Standing Desk,Furniture,West,Small Business,5,350,250.79,0.25
+ORD00983,2025-12-27,Wireless Mouse,Technology,Central,Consumer,1,30,12.35,0.05
+ORD00984,2025-12-28,Wireless Mouse,Technology,West,Consumer,4,30,13.14,0.05
+ORD00985,2025-12-28,Notebook Pack,Office Supplies,South,Consumer,4,18,6.65,0.25
+ORD00986,2025-12-28,Printer,Technology,West,Consumer,1,200,164.38,0.05
+ORD00987,2025-12-28,Monitor,Technology,East,Consumer,4,240,190.75,0.15
+ORD00988,2025-12-28,Paper Ream,Office Supplies,West,Consumer,4,9,5.33,0.1
+ORD00989,2025-12-29,Wireless Mouse,Technology,East,Small Business,4,30,12.62,0.15
+ORD00990,2025-12-29,Pen Set,Office Supplies,West,Consumer,4,12,3.42,0.05
+ORD00991,2025-12-30,Printer,Technology,South,Small Business,4,200,167.23,0.15
+ORD00992,2025-12-30,Monitor,Technology,East,Consumer,3,240,183.56,0.15
+ORD00993,2025-12-30,Keyboard,Technology,South,Consumer,3,45,21.1,0.05
+ORD00994,2025-12-30,Bookshelf,Furniture,West,Small Business,2,120,78.98,0.15
+ORD00995,2025-12-30,Printer,Technology,West,Consumer,1,200,165.72,0.05
+ORD00996,2025-12-30,Keyboard,Technology,West,Consumer,2,45,22.46,0.35
+ORD00997,2025-12-30,Monitor,Technology,East,Consumer,4,240,190.57,0.2
+ORD00998,2025-12-31,Paper Ream,Office Supplies,West,Consumer,1,9,5.59,0.1
+ORD00999,2025-12-31,Pen Set,Office Supplies,West,Consumer,2,12,3.63,0.2
+ORD01000,2025-12-31,Notebook Pack,Office Supplies,South,Consumer,4,18,6.78,0.05
