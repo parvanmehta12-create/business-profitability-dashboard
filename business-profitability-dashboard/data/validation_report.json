@@ -1,0 +1,14 @@
+{
+  "source": "sales.csv",
+  "input_rows": 1000,
+  "rows_with_whitespace_trimmed": 0,
+  "invalid_rows": 0,
+  "duplicate_rows_removed": 0,
+  "conflicting_order_rows": 0,
+  "rejected_rows": 0,
+  "output_rows": 1000,
+  "row_count_reconciles": true,
+  "date_min": "2025-01-01",
+  "date_max": "2025-12-31",
+  "notes": "Synthetic 2025 data. Negative gross profit is not a rejection rule. Original input preserved."
+}

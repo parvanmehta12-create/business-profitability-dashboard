@@ -1,0 +1,1 @@
+source_csv_row,order_id,date,product,category,region,customer_segment,quantity,unit_price,unit_cost,discount_pct,rejection_reason
