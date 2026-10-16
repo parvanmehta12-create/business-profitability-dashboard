@@ -1,0 +1,4 @@
+customer_segment,transaction_count,units_sold,revenue,cost_of_goods_sold,gross_profit,gross_margin_pct,loss_making_transactions,gross_loss_amount
+Small Business,377,1527,157332.55,123197.10,34135.45,21.70,19,1021.92
+Corporate,178,1218,119967.60,96014.16,23953.44,19.97,9,1781.04
+Consumer,445,1117,107986.20,86092.33,21893.87,20.27,28,967.09

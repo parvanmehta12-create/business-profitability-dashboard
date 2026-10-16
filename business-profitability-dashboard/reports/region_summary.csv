@@ -1,0 +1,5 @@
+region,transaction_count,units_sold,revenue,cost_of_goods_sold,gross_profit,gross_margin_pct,loss_making_transactions,gross_loss_amount
+East,288,1117,121289.25,98725.28,22563.97,18.60,20,1939.78
+Central,235,978,98166.90,76132.90,22034.00,22.45,14,435.44
+West,293,1067,103814.80,82859.83,20954.97,20.18,14,990.64
+South,184,700,62015.40,47585.58,14429.82,23.27,8,404.19

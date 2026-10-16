@@ -1,0 +1,4 @@
+category,transaction_count,units_sold,revenue,cost_of_goods_sold,gross_profit,gross_margin_pct,loss_making_transactions,gross_loss_amount
+Furniture,307,1187,215045.00,169040.38,46004.62,21.39,20,1129.52
+Technology,326,1272,150413.75,127124.89,23288.86,15.48,32,2639.65
+Office Supplies,367,1403,19827.60,9138.32,10689.28,53.91,4,0.88
